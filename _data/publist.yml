@@ -12,6 +12,16 @@
  
   news1: Nature [News](https://www.nature.com/articles/d41586-025-00443-2) and [News and Views](https://www.nature.com/articles/d41586-025-00091-6)
 
+- title: "Measuring linkage disequilibrium and improvement of pruning and clumping in structured populations"
+  image: none.png
+  description: none
+  authors: "Ulises Bercovich*, Malthe Sebro Rasmussen*, Zilong Li, Carsten Wiuf, Anders Albrechtsen"
+  link:
+    url: https://doi.org/10.1093/genetics/iyaf009
+    display: Genetics, (2025) [Pdf on my website](https://popgen.dk/albrecht/open/Bercovich2025.pdf)
+  highlight: 0
+  software: "https://github.com/Zilong-Li/PCAone"  
+ 
 - title: "Sucrase Isomaltase Dysfunction Reduces Sucrose Intake in Mice and Humans"
   image: none.png
   description: none
