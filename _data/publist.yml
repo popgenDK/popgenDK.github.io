@@ -1,7 +1,7 @@
 - title: "Genetic architecture in Greenland is shaped by demography, structure and selection"
   image: staeger2025.png
   description: We show that lack of representation of Inuit in genetic research leads to inequity in healthcare opportunities by inclusion of Greenlandic genetic data we can greatly improve the diagnose novel genetic diseases. 
-  authors: "Stæger F.F.; Andersen M.K.; Li Z.; Hjerresen J.P.; He S.; Santander C.G.; Jensen R.T.; Rex K.F.; Thuesen A.C.B.; Hanghøj K.; Seiding I.H.; Jørsboe E.; Stinson S.E.; Rasmussen M.S.; Balboa R.F.; Larsen C.V.L.; Bjerregaard P.; Schubert M.; Meisner J.; Linneberg A.; Grarup N.; Zeggini E.; Nielsen R.; Jørgensen M.E.; Hansen T.; Moltke I.; Albrechtsen A."
+  authors: "Stæger F.F.; Andersen M.K.; Li Z.; Hjerresen J.P.; He S.; Santander C.G.; Jensen R.T.; Rex K.F.; Thuesen A.C.B.; Hanghøj K.; Seiding I.H.; Jørsboe E.; Stinson S.E.; Rasmussen M.S.; Balboa R.F.; Larsen C.V.L.; Bjerregaard P.; Schubert M.; Meisner J.; Linneberg A.; Grarup N.; Zeggini E.; Nielsen R.; Jørgensen M.E.; Hansen T.<sup>&#128232;</sup>; Moltke I.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1038/s41586-024-08516-4
     display: "Nature(2025)"
@@ -45,7 +45,7 @@
 - title: "Persistent Gene Flow Suggests an Absence of Reproductive Isolation in an African Antelope Speciation Model"
   image: none.png
   description: none
-  authors: "Wang X.; Pedersen C.-E.T.; Athanasiadis G.; Garcia-Erill G.; Hanghøj K.; Bertola L.D.; Rasmussen M.S.; Schubert M.; Liu X.; Li Z.; Lin L.; Balboa R.F.; Jørsboe E.; Nursyifa C.; Liu S.; Muwanika V.; Masembe C.; Chen L.; Wang W.; Moltke I.; Siegismund H.R.; Albrechtsen A.; Heller R."
+  authors: "Wang X.; Pedersen C.-E.T.; Athanasiadis G.; Garcia-Erill G.; Hanghøj K.; Bertola L.D.; Rasmussen M.S.; Schubert M.; Liu X.; Li Z.; Lin L.; Balboa R.F.; Jørsboe E.; Nursyifa C.; Liu S.; Muwanika V.; Masembe C.; Chen L.; Wang W.; Moltke I.; Siegismund H.R.; Albrechtsen A.<sup>&#128232;</sup>; Heller R.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1093/sysbio/syae037
     display: "Systematic Biology(2024)"
@@ -55,7 +55,7 @@
 - title: "Extensive Population Structure Highlights an Apparent Paradox of Stasis in the Impala (Aepyceros melampus)"
   image: none.png
   description: none
-  authors: "Garcia-Erill G.; Wang X.; Rasmussen M.; Quinn L.; Khan A.; Bertola L.; Santander C.; Balboa R.; Ogutu J.; Pečnerová P.; Hanghøj K.; Kuja J.; Nursyifa C.; Masembe C.; Muwanika V.; Bibi F.; Moltke I.; Siegismund H.; Albrechtsen A.; Heller R."
+  authors: "Garcia-Erill G.; Wang X.; Rasmussen M.; Quinn L.; Khan A.; Bertola L.; Santander C.; Balboa R.; Ogutu J.; Pečnerová P.; Hanghøj K.; Kuja J.; Nursyifa C.; Masembe C.; Muwanika V.; Bibi F.; Moltke I.; Siegismund H.; Albrechtsen A.<sup>&#128232;</sup>; Heller R.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1111/mec.17539
     display: "Mol. Eco.(2024)"
