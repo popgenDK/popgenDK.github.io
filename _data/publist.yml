@@ -9,14 +9,18 @@
   abstract: ""
 
 - title: "Genetic architecture in Greenland is shaped by demography, structure and selection"
-  image: none.png
+  image: staeger2025.png
   description: none
   authors: "Stæger F.F.; Andersen M.K.; Li Z.; Hjerresen J.P.; He S.; Santander C.G.; Jensen R.T.; Rex K.F.; Thuesen A.C.B.; Hanghøj K.; Seiding I.H.; Jørsboe E.; Stinson S.E.; Rasmussen M.S.; Balboa R.F.; Larsen C.V.L.; Bjerregaard P.; Schubert M.; Meisner J.; Linneberg A.; Grarup N.; Zeggini E.; Nielsen R.; Jørgensen M.E.; Hansen T.; Moltke I.; Albrechtsen A."
   link:
     url: https://doi.org/10.1038/s41586-024-08516-4
     display: "Nature(2025)"
-  highlight: 0
+  highlight: 1
   abstract: ""
+  github: https://github.com/popgenDK/greenlandWGS2024
+  news2: Popular articles [phys.org](https://phys.org/news/2025-02-genetic-greenlanders-reveals-variants-specific.html) 
+  news1: Nature [News](https://www.nature.com/articles/d41586-025-00443-2) and [News and Views](https://www.nature.com/articles/d41586-025-00091-6)
+
 
 - title: "Population genomics of the muskox' resilience in the near absence of genetic variation"
   image: none.png
