@@ -6,7 +6,7 @@
     display: Nature, 638, 8054 (2025)
   highlight: 1
   github: https://github.com/popgenDK/greenlandWGS2024
-  news2: Popular articles: [phys.org](https://phys.org/news/2025-02-genetic-greenlanders-reveals-variants-specific.html) [El Pais](https://elpais.com/opinion/2025-02-15/tierras-raras-y-personas-preciosas.html), [Videnskab.dk in Danish](https://videnskab.dk/krop-sundhed/forrygende-stoerste-analyse-af-groenlandske-gener-nogensinde-loeser-historisk-problem/), [El HuffPost](https://www.huffingtonpost.es/global/la-poblacion-pais-acabar-manos-estados-unidos-genes-unicos-vinculados-enfermedades.html), [focus.it](https://www.focus.it/scienza/salute/con-uno-studio-sul-dna-la-groenlandia-c-insegna-l-importanza-di-migrare)
+  news2: Popular articles: [phys.org](https://phys.org/news/2025-02-genetic-greenlanders-reveals-variants-specific.html) 
   news1: Nature [News](https://www.nature.com/articles/d41586-025-00443-2) and [News and Views](https://www.nature.com/articles/d41586-025-00091-6)
 
 - title: Measuring linkage disequilibrium and improvement of pruning and clumping in structured populations
@@ -17,7 +17,7 @@
     url: https://doi.org/10.1093/genetics/iyaf009
     display: Genetics, (2025) [Pdf on my website](https://popgen.dk/albrecht/open/Bercovich2025.pdf)
   software: https://github.com/Zilong-Li/PCAone
-
+  news2: [El Pais](https://elpais.com/opinion/2025-02-15/tierras-raras-y-personas-preciosas.html), [Videnskab.dk in Danish](https://videnskab.dk/krop-sundhed/forrygende-stoerste-analyse-af-groenlandske-gener-nogensinde-loeser-historisk-problem/), [El HuffPost](https://www.huffingtonpost.es/global/la-poblacion-pais-acabar-manos-estados-unidos-genes-unicos-vinculados-enfermedades.html), [focus.it](https://www.focus.it/scienza/salute/con-uno-studio-sul-dna-la-groenlandia-c-insegna-l-importanza-di-migrare)
 
 - title: Analysis of admixed Greenlandic siblings shows that the mean genotypic values for metabolic phenotypes differ between Inuit and Europeans
   image: sibpower.png
