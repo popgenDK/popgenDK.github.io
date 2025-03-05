@@ -38,16 +38,6 @@
   highlight: 0
   abstract: ""
 
-- title: "African bushpigs exhibit porous species boundaries and appeared in Madagascar concurrently with human arrival"
-  image: none.png
-  description: none
-  authors: "Balboa R.F.; Bertola L.D.; Brüniche-Olsen A.; Rasmussen M.S.; Liu X.; Besnard G.; Salmona J.; Santander C.G.; He S.; Zinner D.; Pedrono M.; Muwanika V.; Masembe C.; Schubert M.; Kuja J.; Quinn L.; Garcia-Erill G.; Stæger F.F.; Rakotoarivony R.; Henrique M.; Lin L.; Wang X.; Heaton M.P.; Smith T.P.L.; Hanghøj K.; Sinding M.-H.S.; Atickem A.; Chikhi L.; Roos C.; Gaubert P.; Siegismund H.R.; Moltke I.; Albrechtsen A.; Heller R."
-  link:
-    url: https://doi.org/10.1038/s41467-023-44105-1
-    display: "Nat. Commun(2024)"
-  highlight: 0
-  abstract: ""
-
 - title: "Extensive Population Structure Highlights an Apparent Paradox of Stasis in the Impala (Aepyceros melampus)"
   image: none.png
   description: none
@@ -65,26 +55,6 @@
   link:
     url: https://doi.org/10.3389/fmicb.2024.1493803
     display: "Frontiers in Microbiology(2024)"
-  highlight: 0
-  abstract: ""
-
-- title: "Introgression and disruption of migration routes have shaped the genetic integrity of wildebeest populations"
-  image: none.png
-  description: none
-  authors: "Liu X.; Lin L.; Sinding M.-H.S.; Bertola L.D.; Hanghøj K.; Quinn L.; Garcia-Erill G.; Rasmussen M.S.; Schubert M.; Pečnerová P.; Balboa R.F.; Li Z.; Heaton M.P.; Smith T.P.L.; Pinto R.R.; Wang X.; Kuja J.; Brüniche-Olsen A.; Meisner J.; Santander C.G.; Ogutu J.O.; Masembe C.; da Fonseca R.R.; Muwanika V.; Siegismund H.R.; Albrechtsen A.; Moltke I.; Heller R."
-  link:
-    url: https://doi.org/10.1038/s41467-024-47015-y
-    display: "Nat. Commun(2024)"
-  highlight: 0
-  abstract: ""
-
-- title: "Analysis of admixed Greenlandic siblings shows that the mean genotypic values for metabolic phenotypes differ between Inuit and Europeans"
-  image: none.png
-  description: none
-  authors: "Lin L.; Andersen M.K.; Stæger F.F.; Li Z.; Hanghøj K.; Linneberg A.; Grarup N.; Jørgensen M.E.; Hansen T.; Moltke I.; Albrechtsen A."
-  link:
-    url: https://doi.org/10.1186/s13073-024-01326-3
-    display: "Genome Med(2024)"
   highlight: 0
   abstract: ""
 
