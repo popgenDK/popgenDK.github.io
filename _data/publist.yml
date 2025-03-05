@@ -1,13 +1,3 @@
-- title: "Sucrase Isomaltase Dysfunction Reduces Sucrose Intake in Mice and Humans"
-  image: none.png
-  description: none
-  authors: "Aldiss P.; Torices L.; Ramne S.; Jørgensen M.E.; Bonfiglio F.; Burm H.; Esteban Blanco C.; Stæger F.F.V.; Senftleber N.K.; Treebak J.T.; Grarup N.; Bjerregaard P.; Grevengoed T.J.; Gillum M.P.; Moltke I.; Albrechtsen A.; Hansen T.; D'Amato M.; Andersen M.K."
-  link:
-    url: https://doi.org/10.1053/j.gastro.2024.10.040
-    display: "Gastroenterology(2025)"
-  highlight: 0
-  abstract: ""
-
 - title: "Genetic architecture in Greenland is shaped by demography, structure and selection"
   image: staeger2025.png
   description: none
@@ -18,9 +8,19 @@
   highlight: 1
   abstract: ""
   github: https://github.com/popgenDK/greenlandWGS2024
-  news2: Popular articles [phys.org](https://phys.org/news/2025-02-genetic-greenlanders-reveals-variants-specific.html) 
+  news2: Popular articles [phys.org](https://phys.org/news/2025-02-genetic-greenlanders-reveals-variants-specific.html), [El Pais](https://elpais.com/opinion/2025-02-15/tierras-raras-y-personas-preciosas.html), [Videnskab.dk in Danish](https://videnskab.dk/krop-sundhed/forrygende-stoerste-analyse-af-groenlandske-gener-nogensinde-loeser-historisk-problem/), [El HuffPost](https://www.huffingtonpost.es/global/la-poblacion-pais-acabar-manos-estados-unidos-genes-unicos-vinculados-enfermedades.html), [focus.it](https://www.focus.it/scienza/salute/con-uno-studio-sul-dna-la-groenlandia-c-insegna-l-importanza-di-migrare)
+ 
   news1: Nature [News](https://www.nature.com/articles/d41586-025-00443-2) and [News and Views](https://www.nature.com/articles/d41586-025-00091-6)
 
+- title: "Sucrase Isomaltase Dysfunction Reduces Sucrose Intake in Mice and Humans"
+  image: none.png
+  description: none
+  authors: "Aldiss P.; Torices L.; Ramne S.; Jørgensen M.E.; Bonfiglio F.; Burm H.; Esteban Blanco C.; Stæger F.F.V.; Senftleber N.K.; Treebak J.T.; Grarup N.; Bjerregaard P.; Grevengoed T.J.; Gillum M.P.; Moltke I.; Albrechtsen A.; Hansen T.; D'Amato M.; Andersen M.K."
+  link:
+    url: https://doi.org/10.1053/j.gastro.2024.10.040
+    display: "Gastroenterology(2025)"
+  highlight: 0
+  abstract: ""
 
 - title: "Population genomics of the muskox' resilience in the near absence of genetic variation"
   image: none.png
