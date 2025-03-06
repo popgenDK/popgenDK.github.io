@@ -54,13 +54,13 @@
   abstract: ""
 
 - title: "Extensive Population Structure Highlights an Apparent Paradox of Stasis in the Impala (Aepyceros melampus)"
-  image: none.png
-  description: none
+  image: impala.jpg
+  description: We what that the Impala is highly structured despite being the posterchild of a species is Stasis. 
   authors: "Garcia-Erill G.; Wang X.; Rasmussen M.; Quinn L.; Khan A.; Bertola L.; Santander C.; Balboa R.; Ogutu J.; Pečnerová P.; Hanghøj K.; Kuja J.; Nursyifa C.; Masembe C.; Muwanika V.; Bibi F.; Moltke I.; Siegismund H.; Albrechtsen A.<sup>&#128232;</sup>; Heller R.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1111/mec.17539
     display: "Mol. Eco.(2024)"
-  highlight: 0
+  highlight: 1
   abstract: ""
 
 - title: "Gut heavy metal and antibiotic resistome of humans living in the high Arctic"
