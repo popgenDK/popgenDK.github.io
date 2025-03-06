@@ -52,7 +52,8 @@
     display: "Systematic Biology(2024)"
   highlight: 0
   abstract: ""
-
+  github: https://github.com/xiqtcacf/WaterbuckScripts
+  
 - title: "Extensive Population Structure Highlights an Apparent Paradox of Stasis in the Impala (Aepyceros melampus)"
   image: impala.jpg
   description: We what that the Impala is highly structured despite being the posterchild of a species is Stasis. 
