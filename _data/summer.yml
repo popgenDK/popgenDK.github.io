@@ -8,17 +8,24 @@
 
 - title: "Assistant Professor, Biology, UCPH"
   image: cindy.jpeg
-  highlight: 1
+  highlight: 0
   description: My current research focuses on detecting strong but very brief selection, such as epidemics, using temporal and ancient genetic data. More broadly I am interested in health and disease within the context of human evolution and host-pathogen interactions.
   website: https://scholar.google.co.uk/citations?user=BpA3Xa8AAAAJ&hl=en
   name: Cindy G. Santander
   
 - title: "Associate Professor, Genetics, Evolution & Environment, University College London"
   image: GarrettPortrait.jpg
-  highlight: 1
+  highlight: 0
   description: Works on constructing and applying statistical methods to infer human history using genetic data.
   website: https://sahwa.github.io/hellenthal-group/
   name: Garrett Hellenthal
+
+- title: "Postdoc, GLOBE, UCPH"
+  image: Katia.png
+  highlight: 1
+  description: My current research focuses on imputation and local ancesty inference. 
+  website: https://scholar.google.gr/citations?user=Zn5EIX0AAAAJ&hl=en
+  name: Katia Bougiouri 
 
 - title: "Associate Professor, Hologenomics, Globe Institute,Genetics, UCPH"
   image: SG.jpeg
