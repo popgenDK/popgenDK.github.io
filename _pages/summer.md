@@ -33,9 +33,6 @@ permalink: /summer/
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/caucasian.phased.haplonet.merged.anno.png"   class="resized-image" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/finstructure.gif"  class="resized-image" alt="Slide 2" />
-        </div>
-        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/check.anno.png"   class="resized-image" alt="Slide 3" />
         </div>
         <div class="item">
