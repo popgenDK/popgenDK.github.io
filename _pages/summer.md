@@ -143,7 +143,7 @@ The lecture will be based on a large amount of reading material (articles/notes)
     09:15 - 10:15 Lecture 1: Introduction to basic population genetic terms and concepts (Fernando Racimo)
     10:30 - 12:00 Computer exercises I
     12:00 - 01:00 Lunch (on your own)
-    01:00 - 01:45 Lecture 2: Introduction to basic NGS data, Data processing, and formats (Anders Albrechtsen)
+    01:00 - 01:45 Lecture 2: Introduction to basic NGS data, Data processing and formats (Anders Albrechtsen)
     01:45 - 03:15 Computer exercises II (break at 02.15)
     03:30 - 04:15 Research lecture by TBA. 
     04:15 - 07:00 Reception/social mixer
