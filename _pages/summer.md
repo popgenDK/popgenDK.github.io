@@ -62,7 +62,7 @@ permalink: /summer/
 ## General info
 
 **Date:** August 4-8, 2025 <br/>
-**Place:** Copenhagen Denmark  <br/>
+**Place:** Copenhagen, Denmark  <br/>
 **Organized by:** The Department of Biology, University of Copenhagen <br/>
 **Price:** Free for all PhD students at Danish universities. 200 Euro for all other students. <br/>
 **Includes:** All teaching. Food and accommodation are NOT included in the course fee. <br/>
