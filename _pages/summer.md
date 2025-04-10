@@ -128,10 +128,12 @@ After the course the student should be able to:
 ## Time and place
 
 The course will take place from Monday August 4 to Friday August 8th 2025 at Biocenteret, Ole Maaloes Vej 5, 2200 Copenhagen N. All lectures and computer exercises will take place in room 4.0.24 (i.e. building 4, ground floor, room number 24). This includes research talks. You can enter the building from two sides as shown shown on this map.
-Laptop
+
+## Laptop
 
 You should bring a laptop to the course. We will log into a remote server from the laptop so any laptop will do regardless of operating system.
-Course material
+
+## Course material
 
 The lecture will be based on a large amount of reading material (articles/notes) that should be read in advance - you can find them here once they are finalized (you will get an email with password). The slides used during the lectures will be made available right before the lectures.
 
