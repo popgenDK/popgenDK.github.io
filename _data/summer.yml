@@ -44,7 +44,7 @@
 - title: "Associate Professor, Biology, UCPH"
   image: IM.jpg
   highlight: 1
-  description: he research in my research group is focused on developing and applying statistical and computational methods to genomic data to solve problems in both population and medical genetics. Within population genetics we are mainly interested in trying to gain insights into how the human species has evolved and how the world was peopled. Within medical genetics we are mainly interested in identifying genetic variants that play role in a number of different diseases and traits, such as type 2 diabetes.  
+  description: The research in my research group is focused on developing and applying statistical and computational methods to genomic data to solve problems in both population and medical genetics. Within population genetics we are mainly interested in trying to gain insights into how the human species has evolved and how the world was peopled. Within medical genetics we are mainly interested in identifying genetic variants that play role in a number of different diseases and traits, such as type 2 diabetes.  
   website: https://idamoltke.wordpress.com/
   name: Ida Moltke
 
@@ -57,7 +57,7 @@
 
 - title: Professor, Biology, UCPH 
   image: AA3.jpg
-  description: Our group develops statistical and computational methods for analysis of genomic data 
+  description: My group develops statistical and computational methods for analysis of genomic data both for population genetics and medical genomics 
   highlight: 1
   website: https://website.popgen.dk/
   name: Anders Albrechtsen
