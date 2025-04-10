@@ -13,6 +13,7 @@
   news1: Nature [News](https://www.nature.com/articles/d41586-025-00443-2) and [News and Views](https://www.nature.com/articles/d41586-025-00091-6)
 
 - title: "Measuring linkage disequilibrium and improvement of pruning and clumping in structured populations"
+  name: PCAone
   image: LDadmix.png
   description: We show that population structure affect LD, pruning and clumping. We derive at new measure of LD that is corrected for population structure and admixture which improved downstream analysis
   authors: "Ulises Bercovich*, Malthe Sebro Rasmussen*, Zilong Li, Carsten Wiuf, Anders Albrechtsen"
