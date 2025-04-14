@@ -190,4 +190,4 @@ The lecture will be based on a large amount of reading material (articles/notes)
 
 ## Evaluation
 
-Participants who have participated actively in all parts of the course and completed all exercises satisfactorily will be awarded a certificate of completion at the end of the course. The work load corresponds to 2.5 ECTS points. Note that this workload includes one week of preparation. Reading material for this is available in the above course program. 
+Participants who have participated actively in all parts of the course and completed all exercises satisfactorily will be awarded a certificate of completion at the end of the course. The work load corresponds to 2.5 ECTS points which will be given for on site participant. Note that this workload includes one week of preparation. Reading material for this is available in the above course program. 
