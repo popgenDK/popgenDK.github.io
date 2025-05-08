@@ -59,14 +59,14 @@ permalink: /summer/
 **Place:** Copenhagen, Denmark  <br/>
 **Organized by:** The Department of Biology, University of Copenhagen <br/>
 **Price:** 
- - On site: Free for all PhD students at Danish, Faroese or Greenlandic universities.200 Euro for all other students.
- - Virutal: Free 
+ - On site: Free for all PhD students at Danish, Faroese and Greenlandic universities. 200 Euro for all other students.
+ - Virtual: Free 
 
 **Includes:**
  - On site: All teaching. Food and accommodation are NOT included in the course fee. <br/>
  - Virtual: includes steaming, server access, and online teaching assistants.
 
-**Sign up:**  [link to sign up](https://docs.google.com/forms/d/e/1FAIpQLSe-YM5Xjp-xZpognNT5khZaWjV7ai0cHrGGWph1xzx4NnGjSw/viewform?usp=header)  <br/>
+**Sign up:**  [Registration is still open with this link](https://docs.google.com/forms/d/e/1FAIpQLSe-YM5Xjp-xZpognNT5khZaWjV7ai0cHrGGWph1xzx4NnGjSw/viewform?usp=header)  <br/>
 **Contact:** For questions write to cphsummercourse@gmail.com  <br/>
 **Credit and diploma:** The course is 2.5 ETCS credits and you will recieve a diploma. <br/>
 **[github with code](https://github.com/popgenDK/courses/tree/main/summer2025)**
