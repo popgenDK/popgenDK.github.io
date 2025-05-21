@@ -57,7 +57,7 @@ permalink: /summer/
 
 **Date:** August 4-8, 2025 <br/>
 **Place:** Copenhagen, Denmark  <br/>
-**Organized by:** The Department of Biology, University of Copenhagen <br/>
+**Organized by:** The Department of Biology and GLOBE, University of Copenhagen <br/>
 **Price:** 
  - On site: Free for all PhD students at Danish, Faroese and Greenlandic universities. 200 Euro for all other students.
  - Virtual: Free 
@@ -156,7 +156,7 @@ The lecture will be based on a large amount of reading material (articles/notes)
     09:00 - 10:15 Lecture 3: Estimating allele frequencies, SNP calling and genotype calling from NGS data (Anders Albrechtsen)
     10:30 - 12:00 Computer exercises III
     12:00 - 01:00 Lunch (on your own)
-    01:00 - 02:15 Lecture 4: Imputation (Anders Albrecthsen)
+    01:00 - 02:15 Lecture 4: Imputation  (Shyam Gopalakrishnan)
     02:30 - 04:00 Computer exercises IV
     04:15 - 05:00 Research lecture by TBA
     Canal boat trip
