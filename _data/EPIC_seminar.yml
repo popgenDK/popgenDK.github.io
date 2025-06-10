@@ -1,4 +1,13 @@
 - date: 2024-12-10
+  day: 10th December
+  speaker1: asdfasdf
+  title1: "a"
+  speaker2: asfd
+  title2: "asdfsdf"
+  highlight: 1
+
+
+- date: 2024-12-10
   day: 10th December 2024
   speaker1: Yuejiao Huang
   title1: "Tracing the Evolutionary History of Epstein-Barr Virus Through Ancient and Modern Genomes"
