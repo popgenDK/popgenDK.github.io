@@ -1,11 +1,26 @@
-- date: 2024-12-10
-  day: 10th December
-  speaker1: asdfasdf
-  title1: "a"
-  speaker2: asfd
-  title2: "asdfsdf"
+- date: 2025-06-17
+  day: 17th June 2025
+  speaker1: Dinah Maran Parker
+  title1: TBD
+  speaker2: TBD
+  title2: TBD
   highlight: 1
 
+- date: 2025-05-21
+  day: 21st May 2025
+  speaker1: Garazi Martin Bideguren
+  title1: "Testing gut microbial contributions to lizards thermal physiology"
+  speaker2: Carolina Pacheco
+  title2: "A temporal assessment of genomic erosion in the pink pigeon"
+  highlight: 0
+
+- date: 2025-04-15
+  day: 15th April 2025
+  speaker1: Evelyn Todd
+  title1: "The genomic structure and population dynamics of European wolves"
+  speaker2: Marta Maria Ciucani
+  title2: "Giant forest Hog and the final piece of the puzzle to explore African Pig diversity"
+  highlight: 0
 
 - date: 2024-12-10
   day: 10th December 2024
@@ -13,7 +28,7 @@
   title1: "Tracing the Evolutionary History of Epstein-Barr Virus Through Ancient and Modern Genomes"
   speaker2: Kenyon Mobley
   title2: "Home ground advantage: Local adaptation in wild Atlantic salmon"
-  highlight: 1
+  highlight: 0
 
 - date: 2024-11-26
   day: 26th November 2024
