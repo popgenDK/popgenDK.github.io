@@ -1,13 +1,21 @@
+
 - name: Anders Albrechtsen
   photo: AA3.jpg
   info: Professor, from 2020
   email: aalbrechtsen@bio.ku.dk
-  number_educ: 5
+  number_educ: 4
   education1: Master in Bioinformatics, University of Copenhagen
   education2: PhD, Dept of Biostatistics with Peter Dalhgaard, University of Copenhagen and with Rasmus Nielsen (Integrative Biology, Berkeley CA)
   education3: Postdoc Berkeley, 
-  education4: Postdoc, UCPH
-  education5: Associate professor, Bioinformatics, University of Copenhagen 2014
+  education4: Associate professor, Bioinformatics, University of Copenhagen 2014
+
+
+- name: Marta Ciucani
+  photo: Marta-Ciucani.jpg
+  info: Post doc with Anders Albrechtsen
+  duration: started 2024
+  number_educ: 1
+  education1: GLOBE institute 
 
 - name: Ulises Bercovich,
   photo: Ulises.jpeg
@@ -21,19 +29,14 @@
   info: PhD student with Anders Albrechtsen
   duration: started 2022
 
-- name: Renzo Balboa
-  photo: renzo.jpeg
-  info: Postdoc with Ida Moltke and Anders Albrechtsen
-  duration: started 2022
+- name: Thomas Bøggild
+  photo: malthe.png
+  info: PhD Student with (Main)Rasmus Heller  and Anders Albrechtsen 
+  duration: started 2025
 
 - name: Frederik Filip Stæger
   photo: Frederikfilipstaeger.png
-  info: PhD student with Ida Moltke and Anders Albrechtsen 
-  duration: started 2021
-
-- name: Long Lin
-  photo: LongLin.png
-  info: PhD student with Anders Albrechtsen
+  info: Post doc with Ida Moltke and Anders Albrechtsen 
   duration: started 2021
 
 - name: Zilong Li
@@ -45,14 +48,6 @@
   photo: mikkel.jpeg
   info: Staff Scientist with Niels Grarup, Torben Hansen and Anders Albrechtsen
   duration: started 2021
-  
-- name: Malthe Sebro Rasmussen
-  photo: malthe.png
-  info: Post Doc with Anders Albrechtsen
-  duration: 2019-2024
-  number_educ: 1
-  education1: PhD thesis <a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=546">Probabilistic modelling in genomics</a>, 2023 
-
 
   
 
