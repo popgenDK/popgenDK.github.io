@@ -3,7 +3,7 @@
   photo: AA3.jpg
   info: Professor, from 2020
   email: aalbrechtsen@bio.ku.dk
-  number_educ: 4
+  number_educ: 1
   education1: Master in Bioinformatics, University of Copenhagen
   education2: PhD, Dept of Biostatistics with Peter Dalhgaard, University of Copenhagen and with Rasmus Nielsen (Integrative Biology, Berkeley CA)
   education3: Postdoc Berkeley, 
@@ -14,8 +14,6 @@
   photo: Marta-Ciucani.jpg
   info: Post doc with Anders Albrechtsen
   duration: started 2024
-  number_educ: 1
-  education1: GLOBE institute 
 
 - name: Ulises Bercovich,
   photo: Ulises.jpeg
