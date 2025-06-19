@@ -54,7 +54,7 @@ permalink: /summer/
 
 
 ## General info
-
+<span style="color:red">Registration is closed</span>
 **Date:** August 4-8, 2025 <br/>
 **Place:** Copenhagen, Denmark  <br/>
 **Organized by:** The Department of Biology and GLOBE, University of Copenhagen <br/>
@@ -66,7 +66,7 @@ permalink: /summer/
  - On site: All teaching. Food and accommodation are NOT included in the course fee. <br/>
  - Virtual: includes steaming, server access, and online teaching assistants.
 
-**Sign up:**  [Registration is still open with this link](https://docs.google.com/forms/d/e/1FAIpQLSe-YM5Xjp-xZpognNT5khZaWjV7ai0cHrGGWph1xzx4NnGjSw/viewform?usp=header)  <br/>
+**Sign up:**  [Registration is closed except for UCPH PhD students](https://docs.google.com/forms/d/e/1FAIpQLSe-YM5Xjp-xZpognNT5khZaWjV7ai0cHrGGWph1xzx4NnGjSw/viewform?usp=header)  <br/>
 **Contact:** For questions write to cphsummercourse@gmail.com  <br/>
 **Credit and diploma:** The course is 2.5 ETCS credits and you will recieve a diploma. <br/>
 **Africa BioGenome Project participants:** The course will be offered as part of the African BioGenome Project Open Institute East and Central Africa Regional Workshop. <br/>
