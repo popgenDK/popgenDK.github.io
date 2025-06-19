@@ -55,6 +55,7 @@ permalink: /summer/
 
 ## General info
 <span style="color:red">Registration is closed</span>
+
 **Date:** August 4-8, 2025 <br/>
 **Place:** Copenhagen, Denmark  <br/>
 **Organized by:** The Department of Biology and GLOBE, University of Copenhagen <br/>
