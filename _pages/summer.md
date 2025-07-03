@@ -149,7 +149,7 @@ The lecture will be based on a large amount of reading material (articles/notes)
     12:00 - 01:00 Lunch (on your own)
     01:00 - 01:45 Lecture 2: Intro to basic NGS data, data processing and formats (Anders Albrechtsen)
     01:45 - 03:15 Computer exercises II (break at 02.15)
-    03:30 - 04:15 Research lecture by TBA. 
+    03:30 - 04:15 Research talk: Understanding genetic architecture of disease in Greenland using population genetics by Frederik Stæger. 
     04:15 - 07:00 Reception/social mixer
 
 ### Tuesday - Analysis of NGS data and imputation
@@ -159,7 +159,7 @@ The lecture will be based on a large amount of reading material (articles/notes)
     12:00 - 01:00 Lunch (on your own)
     01:00 - 02:15 Lecture 4: Imputation  (Shyam Gopalakrishnan)
     02:30 - 04:00 Computer exercises IV
-    04:15 - 05:00 Research lecture by TBA
+    04:15 - 05:00 Research talk: By Víctor Moreno Mayar
     Canal boat trip
 
 ### Wednesday - Population structure
@@ -169,25 +169,25 @@ The lecture will be based on a large amount of reading material (articles/notes)
     12:00 - 01:00 Lunch (on your own)
     01:00 - 02:15 Lecture 6: D/f statistics and ancient geneflow (Martin Sikora)
     02:30 - 04:00 Computer exercises VI
-    04:15 - 05:00 Research lecture by TBA
+    04:15 - 05:00 Research Talk by 	Martin Sikora
     
 ### Thursday – Local ancestry inference and selection
 
     09:00 - 10:15 Lecture 7: Local ancestry inference (Katia Bougiouri)
     10:30 - 12:00 Computer exercises VII
     12:00 - 01:00 Lunch (on your own)
-    01:00 - 02:15 Lecture 8: Detecting genomic regions under (positive) selection (Ida Moltke)
+    01:00 - 02:15 Lecture 8: Detecting genomic regions under (positive) selection (Jazmin Ramos Madrigal)
     02:30 - 04:00 Computer exercises VIII
-    04:15 - 05:00 Research lecture by TBA
+    04:15 - 05:00 Research Talk: Tracing the evolutionary history of the CCR5-delta32 deletion via ancient and modern genomes by Kirstine Ravn
 
 ### Friday - PCA and demography
 
-    09:00 - 10:15 Lecture 9: PCA (Anders Albrecthsen)
+    09:00 - 10:15 Lecture 9: PCA and genome masking (Anders Albrecthsen)
     10:30 - 12:00 Computer exercises IX
     12:00 - 01:00 Lunch (on your own)
     01:00 - 02:15 Lecture 10: Demography Inference (Shyam Gopalakrishnan)
     02:30 - 04:00 Computer exercises X
-    04:15 - 05:00 Research lecture by TBA
+    04:15 - 05:00 Research Talk: Vacuuming animal DNA from thin air by Kristine Bohmann
     05:00 - ? Farewell drinks
 
 ## Evaluation
