@@ -23,9 +23,16 @@ permalink: /summer/
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <style>
-        .resized-image {
+        .carousel-inner {
             height: 600px; /* Set the desired height */
-            width: auto;   /* Let the browser calculate the width to maintain the aspect ratio */
+            overflow: hidden;
+        }
+        .resized-image {
+            height: 100%;
+            width: auto; /* Let the browser calculate the width to maintain the aspect ratio */
+            object-fit: contain;
+            display: block;
+            margin: 0 auto;
         }
         </style>
     
