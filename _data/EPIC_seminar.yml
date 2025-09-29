@@ -1,10 +1,18 @@
+- date: 2025-10-21
+  day: 21st October 2025
+  speaker1: Thomas Bøggild
+  title1: "Inferring stopped recombination in new sex chromosomes of Grant's Gazelle"
+  speaker2: Audald Lloret-Villas
+  title2: "From recombination maps to imputation: building genomic resources for population studies"
+  highlight: 1
+
 - date: 2025-06-17
   day: 17th June 2025
   speaker1: Dinah Maran Parker
   title1: "Spare parts, central roles: how a fungus stores mating genes on an accessory chromosome"
   speaker2: Joel Vizueta Moraga
   title2: "The diversification of genomic properties affecting vision in ants"
-  highlight: 1
+  highlight: 0
 
 - date: 2025-05-21
   day: 21st May 2025
