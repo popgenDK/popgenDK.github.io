@@ -1,3 +1,33 @@
+- title: "Pre-phasing long reads improves structural variant genotyping"
+  image: svupp.png
+  description: SVUPP achieved higher accuracy than cuteSV2, Sniffles2 and kanpig with both long and ultra long Oxford Nanopore Technologies (ONT) data as well as Pacific Biosciences (PacBio) HiFi data for genotyping SVs without close neighbor SVs.
+  authors: Li, Z., Stæger, F.F., Davies, R.W., Moltke, I., & Albrechtsen, A.
+  link: 
+    url: https://doi.org/10.1093/bioinformatics%2Fbtaf587
+    display: Bioinformatics (2025)
+  highlight: 1
+   
+- title: "Genomes of critically endangered saola are shaped by population structure and purging"
+  image: saola.jpg
+  description: The saola is one of the most elusive large mammals, standing at the brink of extinction. We constructed a reference genome and resequenced 26 saola individuals. 
+  authors: "Garcia-Erill, G., Liu, S., Le, M.D., Hurley, M.M., Nguyen, H.D., Nguyen, D.Q., Nguyen, D.H., Santander, C.G., Sánchez Barreiro, F., Gomes Martins, N.F., Hanghøj, K., Salleh, F.M., Ramos-Madrigal, J., Wang, X., Sinding, M.S., Morales, H.E., Stæger, F.F., Wilkinson, N., Meng, G., Pečnerová, P., Yang, C., Rasmussen, M.S., Schubert, M., Dunn, R.R., Moltke, I., Zhang, G., Chen, L., Wang, W., Cao, T.T., Nguyen, H.M., Siegismund, H.R., Albrechtsen, A., Gilbert, M.T., & Heller, R."
+  link:
+    url: https://doi.org/10.1016/j.cell.2025.03.040
+    display: "CELL (2025)"
+  highlight: 1
+  github: https://github.com/GenisGE/saola
+  news2: Popular articles [discover magazine](https://www.discovermagazine.com/is-the-elusive-asian-unicorn-extinct-new-evidence-gives-hope-to-finding-it-47519),   [BBC wildlife](https://www.discoverwildlife.com/animal-facts/saola-annamite-mountains-vietnam-laos), 
+  [Earth.com](https://www.earth.com/news/search-for-the-mythical-asian-unicorn-new-genetic-clues-emerge/),[Die Spiegel](https://www.spiegel.de/wissenschaft/natur/vietnam-neue-genanalyse-soll-spur-zum-asiatischen-einhorn-saola-liefern-a-c783bf20-52f4-443c-af48-07b5dbc158bf),   [ekstrabladet (danish)](https://ekstrabladet.dk/nyheder/videnskab/forskere-vil-redde-den-asiatiske-enhjoerning-hvis-den-altsaa-findes/10608841)   
+  news1: Current Biology [comment](https://www.cell.com/current-biology/fulltext/S0960-9822(25)01031-0)
+
+- title: "Polygenic risk score for type 2 diabetes shows context-dependent effects across populations"
+  authors: "Boya Guo, Yanwei Cai, ... , Frederik F Stæger ... Ida Moltke ... Anders Albrechtsen ... Heather M Highland, Burcu F Darst"
+  link: 
+    url: https://doi.org/10.1038/s41467-025-63546-4
+    display:  Nat Commun (2025)
+  highlight: 0
+
+  
 - title: "Genetic architecture in Greenland is shaped by demography, structure and selection"
   image: staeger2025.png
   description: We show that lack of representation of Inuit in genetic research leads to inequity in healthcare opportunities by inclusion of Greenlandic genetic data we can greatly improve the diagnose novel genetic diseases. 
@@ -5,8 +35,7 @@
   link:
     url: https://doi.org/10.1038/s41586-024-08516-4
     display: "Nature(2025)"
-  highlight: 1
-  abstract: ""
+  highlight: 1  abstract: ""
   github: https://github.com/popgenDK/greenlandWGS2024
   news2: Popular articles [phys.org](https://phys.org/news/2025-02-genetic-greenlanders-reveals-variants-specific.html), [El Pais](https://elpais.com/opinion/2025-02-15/tierras-raras-y-personas-preciosas.html), [Videnskab.dk in Danish](https://videnskab.dk/krop-sundhed/forrygende-stoerste-analyse-af-groenlandske-gener-nogensinde-loeser-historisk-problem/), [El HuffPost](https://www.huffingtonpost.es/global/la-poblacion-pais-acabar-manos-estados-unidos-genes-unicos-vinculados-enfermedades.html), [focus.it](https://www.focus.it/scienza/salute/con-uno-studio-sul-dna-la-groenlandia-c-insegna-l-importanza-di-migrare)
  
