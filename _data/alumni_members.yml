@@ -1,16 +1,16 @@
 - name: Renzo Balboa
   photo: renzo.jpeg
   info: Postdoc with Ida Moltke and Anders Albrechtsen
-  duration: started 2022
+  duration: 2022-2024
 
 - name: Long Lin
   photo: LongLin.png
   info: PhD student with Anders Albrechtsen
-  duration: started 2021
+  duration: 2021-2024
 
 - name: Malthe Sebro Rasmussen
   photo: malthe.png
-  info: Post Doc with Anders Albrechtsen
+  info: PhD student and Post Doc with Anders Albrechtsen
   duration: 2019-2024
   number_educ: 1
   education1: PhD thesis <a href="https://bio2.science.ku.dk/cms/bibliotek-phd-abstract.asp?ID=546">Probabilistic modelling in genomics</a>, 2023 
