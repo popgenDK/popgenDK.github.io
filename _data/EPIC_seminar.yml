@@ -1,10 +1,18 @@
+- date: 2025-11-19
+  day: 19th November 2025
+  speaker1: Kees Willem Wanders
+  title1: "Isolation-by-distance maintains subspecies differentiation in a wide-ranging shorebird"
+  speaker2: Anna White
+  title2: "Ancient chewing gums offer new insights into oral microbiome evolution and health"
+  highlight: 1
+
 - date: 2025-10-21
   day: 21st October 2025
   speaker1: Thomas Bøggild
   title1: "Inferring stopped recombination in new sex chromosomes of Grant's Gazelle"
   speaker2: Audald Lloret-Villas
   title2: "From recombination maps to imputation: building genomic resources for population studies"
-  highlight: 1
+  highlight: 0
 
 - date: 2025-06-17
   day: 17th June 2025
