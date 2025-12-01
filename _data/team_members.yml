@@ -40,7 +40,10 @@
 - name: Zilong Li
   photo: zilong.jpg
   info: Post Doc with Anders Albrechtsen
-  duration: started 2020
+  duration: started 2020 as PhD student, 2024 as post doc
+  number_educ: 1
+  education1: PhD thesis <a href="https://researchprofiles.ku.dk/da/publications/efficient-statistical-and-computational-methods-for-large-scale-s">Efficient statistical and computational methods for large scale sequencing data</a>, 2025 
+
   
 - name: Mikkel Schubert 
   photo: mikkel.jpeg
