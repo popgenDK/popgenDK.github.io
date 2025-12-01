@@ -9,7 +9,6 @@
   education3: Postdoc Berkeley, 
   education4: Associate professor, Bioinformatics, University of Copenhagen 2014
 
-
 - name: Marta Ciucani
   photo: Marta-Ciucani.jpg
   info: Post doc with Anders Albrechtsen
@@ -34,16 +33,17 @@
 
 - name: Frederik Filip Stæger
   photo: Frederikfilipstaeger.png
-  info: Post doc with Ida Moltke and Anders Albrechtsen 
-  duration: started 2021
-
+  info: Post doc with Henning Bundgaard but still working with Ida Moltke and Anders Albrechtsen 
+  duration: started 2021 as PHD student, 2024 as post doc. 
+  number_educ: 1
+  education1: PhD thesis <a href="">Medical genetics in the Greenlandic population</a>, 2024
+  
 - name: Zilong Li
   photo: zilong.jpg
   info: Post Doc with Anders Albrechtsen
   duration: started 2020 as PhD student, 2024 as post doc
   number_educ: 1
-  education1: PhD thesis <a href="https://researchprofiles.ku.dk/da/publications/efficient-statistical-and-computational-methods-for-large-scale-s">Efficient statistical and computational methods for large scale sequencing data</a>, 2025 
-
+  education1: PhD thesis <a href="https://researchprofiles.ku.dk/da/publications/efficient-statistical-and-computational-methods-for-large-scale-s">Efficient statistical and computational methods for large scale sequencing data</a>, 2023 
   
 - name: Mikkel Schubert 
   photo: mikkel.jpeg
