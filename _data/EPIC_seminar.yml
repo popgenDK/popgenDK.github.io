@@ -1,10 +1,18 @@
+- date: 2025-12-16
+  day: 16th December 2025
+  speaker1: Morten Tange Olsen
+  title1: "Does success come at a price? The genomics of life and death in the harbour seal"
+  speaker2: Sabhrina Gita Aninta
+  title2: "Topi or not topi? The many names of _Damaliscus lunatus_ and what population genomics have to say about it"
+  highlight: 1
+
 - date: 2025-11-19
   day: 19th November 2025
   speaker1: Kees Willem Wanders
   title1: "Isolation-by-distance maintains subspecies differentiation in a wide-ranging shorebird"
   speaker2: Anna White
   title2: "Ancient chewing gums offer new insights into oral microbiome evolution and health"
-  highlight: 1
+  highlight: 0
 
 - date: 2025-10-21
   day: 21st October 2025
