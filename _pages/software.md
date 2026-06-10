@@ -24,7 +24,9 @@ permalink: /software/
   <h2>{{ software.name }}</h2>
   {% endif %}
   <pubtit>{{ software.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ software.image }}" class="img-responsive" width="33%" style="float: left" />
+  {% if software.image %}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ software.image }}" class="img-responsive" width="33%" style="float: left" alt="{{ software.name | default: software.title | escape }}" />
+  {% endif %}
   <p>{{ software.description }}</p>
   <p><em>{{ software.authors }}</em></p>
   <p><strong><a href="{{ software.link.url }}">{{ software.link.display }}</a></strong></p>

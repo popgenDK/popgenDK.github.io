@@ -26,10 +26,9 @@ permalink: /publications/
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <meta charset="utf-8"> 
-  <pubtit>{{ publi.title }}</pubtit>
-  <a href="{{ publi.link.url }}" target="blank" >
-     <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}"  title="{{ publi.abstract }}" class="img-responsive" width="33%" style="float: left" />
+	  <pubtit>{{ publi.title }}</pubtit>
+	  <a href="{{ publi.link.url }}" target="_blank" rel="noopener noreferrer">
+	     <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" alt="{{ publi.title | escape }}" title="{{ publi.abstract }}" class="img-responsive" width="33%" style="float: left" />
    </a>
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
@@ -72,4 +71,3 @@ permalink: /publications/
 {% assign pub_number_printed = pub_number_printed | plus: 1 %}
 
 {% endfor %}
-

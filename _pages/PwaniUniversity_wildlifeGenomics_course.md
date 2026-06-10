@@ -10,7 +10,7 @@ permalink: wildlife_genomics_course/
 # Course: Introduction to wildlife genomics
 
 <figure>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/slider/logo.png" style="width: 840px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/slider/logo.png" style="width: 840px" alt="Wildlife genomics course">
 </figure>
 
 ## General info
@@ -51,7 +51,7 @@ Topics: fundamental population genetics, Next-generation sequencing, genomic dat
  <div class="well">
   <h2>{{ yml.name }}</h2>
   <pubtit>{{ yml.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ yml.image }}" class="img-responsive" width="33%" style="float: left" />
+	  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ yml.image }}" class="img-responsive" width="33%" style="float: left" alt="{{ yml.name | escape }}" />
   <p>{{ yml.description }} <strong><a href="{{ yml.website }}">website</a></strong></p>  
  </div>
 </div>
@@ -76,7 +76,7 @@ Topics: fundamental population genetics, Next-generation sequencing, genomic dat
 
 ## Time and place
 
-The course will take place from Monday August 12th to Friday August 23rd 2024 at Pwani University, Kilifi, Kenya [add full address]. All lectures and computer exercises will take place in room xxx. This includes research talks. 
+The course took place from Monday August 12th to Friday August 23rd 2024 at Pwani University in Kilifi, Kenya. Lectures, computer exercises and research talks were held on campus.
 You are required to bring a laptop to the course. 
 
 

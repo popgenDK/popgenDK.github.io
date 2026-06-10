@@ -19,6 +19,7 @@
   highlight: 1
 
 - title: "Pre-phasing long reads improves structural variant genotyping"
+  name: SVUPP
   image: svupp.png
   description: SVUPP achieved higher accuracy than cuteSV2, Sniffles2 and kanpig with both long and ultra long Oxford Nanopore Technologies (ONT) data as well as Pacific Biosciences (PacBio) HiFi data for genotyping SVs without close neighbor SVs.
   authors: Li, Z.<sup>&#128232;</sup>, Stæger, F.F., Davies, R.W., Moltke, I.<sup>&#128232;</sup>, & Albrechtsen, A<sup>&#128232;</sup>.
@@ -743,7 +744,7 @@
 
 - title: "FastNGSadmix: Admixture proportions and principal component analysis of a single NGS sample"
   image: generic.jpeg
-  description: 
+  description: Estimates ancestry proportions and principal components for a single low-depth sequencing sample using reference population data.
   authors: "Jørsboe E.; Hanghøj K.; Albrechtsen A."
   link:
     url: https://doi.org/10.1093/bioinformatics/btx474
@@ -981,12 +982,12 @@
     display: "BMC Bioinformatics(2014)"
   highlight: 1
   abstract: "Background: High-throughput DNA sequencing technologies are generating vast amounts of data. Fast, flexible and memory efficient implementations are needed in order to facilitate analyses of thousands of samples simultaneously. Results: We present a multithreaded program suite called ANGSD. This program can calculate various summary statistics, and perform association mapping and population genetic analyses utilizing the full information in next generation sequencing data by working directly on the raw sequencing data or by using genotype likelihoods. Conclusions: The open source c/c++ program ANGSD is available at . The program is tested and validated on GNU/Linux systems. The program facilitates multiple input formats including BAM and imputed beagle genotype probability files. The program allow the user to choose between combinations of existing methods and can perform analysis that is not implemented elsewhere. "
-  software: phttp://www.popgen.dk/angsd/index.php/ANGSD
+  software: https://www.popgen.dk/angsd/
   name: ANGSD
 
 - title: "RelateAdmix: A software tool for estimating relatedness between admixed individuals"
   image: generic.jpeg
-  description: 
+  description: Estimates pairwise relatedness between admixed individuals while accounting for population ancestry.
   authors: "Moltke I.; Albrechtsen A."
   link:
     url: https://doi.org/10.1093/bioinformatics/btt652
@@ -994,7 +995,7 @@
   highlight: 1
   abstract: "Motivation: Pairwise relatedness plays an important role in a range of genetic research fields. However, currently only few estimators exist for individuals that are admixed, i.e. have ancestry from more than one population, and these estimators fail in some situations.Results: We present a new software tool, RelateAdmix, for obtaining maximum likelihood estimates of pairwise relatedness from genetic data between admixed individuals. We show using simulated data that it gives rise to better estimates than three state-of-the-art software tools, REAP, KING and Plink, while still being fast enough to be applicable to large datasets. "
   name: relateAdmix
-  sotware: http://www.popgen.dk/software/index.php/RelateAdmix
+  software: http://www.popgen.dk/software/index.php/RelateAdmix
 
 - title: "Upper palaeolithic Siberian genome reveals dual ancestry of native Americans"
   image: generic.jpeg
@@ -1147,7 +1148,7 @@
 
 - title: "Estimating individual admixture proportions from next generation sequencing data"
   image: generic.jpeg
-  description: 
+  description: NGSadmix estimates individual ancestry proportions directly from genotype likelihoods in low-depth sequencing data.
   authors: "Skotte L.; Korneliussen T.S.; Albrechtsen A."
   link:
     url: https://doi.org/10.1534/genetics.113.154138
@@ -1389,7 +1390,7 @@
 
 - title: "Relatedness mapping and tracts of relatedness for genome-wide data in the presence of linkage disequilibrium"
   image: generic.jpeg
-  description: 
+  description: Relate identifies local identity-by-descent tracts while accounting for linkage disequilibrium in genome-wide data.
   authors: "Albrechtsen A.; Korneliussen T.S.; Moltke I.; van Overseem Hansen T.; Nielsen F.C.; Nielsen R."
   link:
     url: https://doi.org/10.1002/gepi.20378

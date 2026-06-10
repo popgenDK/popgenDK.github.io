@@ -10,7 +10,22 @@ img { margin-bottom: 24px;
 
 
 body {
-	padding-top: 70px;
+		padding-top: 70px;
+}
+
+.skip-link {
+	position: fixed;
+	top: 8px;
+	left: 8px;
+	z-index: 1100;
+	padding: 8px 12px;
+	background: #fff;
+	color: #000;
+	transform: translateY(-150%);
+}
+
+.skip-link:focus {
+	transform: translateY(0);
 }
 
 figcaption {
