@@ -14,31 +14,34 @@
 
 - name: Ida Moltke
   title: Associate Professor, Biology, University of Copenhagen
-  image: IM.jpg
-  description: Instructor in population structure and admixture analysis.
+  image: Ida-Moltke.jpeg
+  description: Develops and applies statistical and computational methods to population and medical genomic data. She will teach population structure and admixture analysis.
   highlight: 1
   website: https://idamoltke.wordpress.com/
 
 - name: Nuno Martins
-  title: Instructor
-  image: nopic.png
-  description: Workshop instructor and practical-session facilitator.
+  title: Postdoctoral Researcher, Biology, University of Copenhagen
+  image: Nuno-Martins.jpeg
+  description: Joined Ida Moltke's lab in January 2025 after completing his PhD at the Globe Institute. His research focuses on population genomics of Greenlandic mammals.
   highlight: 1
+  website: https://idamoltke.wordpress.com/people-in-my-lab/
 
 - name: Harvinder Kaur Pawar
-  title: Instructor
-  image: nopic.png
-  description: Instructor in gene flow and D-statistics, with a research talk on gorilla population genomics.
+  title: Postdoctoral Researcher, Biology, University of Copenhagen
+  image: Harvinder-Kaur-Pawar.jpeg
+  description: Joined Ida Moltke's lab in April 2025 after completing her PhD in Barcelona. Her research focuses on population genomics of Greenlandic mammals. She will teach gene flow and D-statistics and present research on gorilla population genomics.
   highlight: 1
+  website: https://idamoltke.wordpress.com/people-in-my-lab/
 
 - name: Sabhrina Gita Aninta
-  title: Instructor
-  image: nopic.png
-  description: Workshop instructor and practical-session facilitator.
+  title: PhD Student, Biology, University of Copenhagen
+  image: Sabhrina-Gita-Aninta.jpg
+  description: PhD student in Rasmus Heller's group. Her work connects ecology and evolution to improve biodiversity conservation and uses genome-wide variation to study populations and identify priorities for conservation.
   highlight: 1
+  website: https://natureaccordingtosam.wordpress.com/sabhrina-gita-aninta/
 
 - name: Thomas Bøggild
   title: PhD Student, Biology, University of Copenhagen
   image: thomas.png
-  description: Workshop instructor and practical-session facilitator.
+  description: PhD student in the groups of Rasmus Heller and Anders Albrechtsen. He is a workshop instructor and practical-session facilitator.
   highlight: 1

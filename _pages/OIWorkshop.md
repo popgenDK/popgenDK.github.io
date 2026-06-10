@@ -8,7 +8,7 @@ permalink: /workshop/
 
 # Conservation genomics workshop 2026
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+<div markdown="0" id="carousel" class="carousel slide stable-carousel" data-ride="carousel" data-interval="4000" data-pause="hover">
   <ol class="carousel-indicators">
     <li data-target="#carousel" data-slide-to="0" class="active"></li>
     <li data-target="#carousel" data-slide-to="1"></li>
@@ -47,8 +47,6 @@ permalink: /workshop/
 **Registration:** Registration information will be provided through the African BioGenome Project. <br/>
 
 The workshop is a comprehensive, hands-on introduction to population genomic analyses of next-generation sequencing data, with an emphasis on wildlife conservation. Lectures will be combined with practical computer exercises, discussions, and research talks presenting conservation genomics case studies.
-
-The [2024 workshop at Pwani University]({{ site.url }}{{ site.baseurl }}/workshop_kenya2024/) is available in the archive.
 
 ## Topics
 
@@ -136,10 +134,6 @@ Participants must bring a laptop. The practical exercises will use a remote serv
 - Conservation genomics in practice
 - Research talks and discussion
 - Collaborative project work
-
-### August 24-25
-
-- Field activities around Mpala for instructors
 
 ### Daily schedule
 
