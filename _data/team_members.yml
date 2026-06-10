@@ -1,7 +1,7 @@
 
 - name: Anders Albrechtsen
   photo: AA3.jpg
-  info: Professor, from 2020
+  info: Group leader since 2012; Professor since 2020
   email: aalbrechtsen@bio.ku.dk
   number_educ: 0
   education1: Master in Bioinformatics, University of Copenhagen
@@ -14,17 +14,10 @@
   info: Post doc with Anders Albrechtsen
   duration: started 2024
 
-- name: Ulises Bercovich,
-  photo: Ulises.jpeg
-  info: PhD student with Carsten Wiuf (main) and Anders Albrechtsen
-  duration: started 2023
-  number_educ: 1
-  education1: At Department of Mathematics
-
 - name: Shixu He
   photo: shixu.jpg
-  info: PhD student with Anders Albrechtsen
-  duration: started 2022
+  info: Postdoc with Anders Albrechtsen
+  duration: started 2022 as PhD student, 2026 as postdoc
 
 - name: Thomas Bøggild
   photo: malthe.png
@@ -38,17 +31,9 @@
   number_educ: 1
   education1: PhD thesis <a href="">Medical genetics in the Greenlandic population</a>, 2024
   
-- name: Zilong Li
-  photo: zilong.jpg
-  info: Post Doc with Anders Albrechtsen
-  duration: started 2020 as PhD student, 2024 as post doc
-  number_educ: 1
-  education1: PhD thesis <a href="https://researchprofiles.ku.dk/da/publications/efficient-statistical-and-computational-methods-for-large-scale-s">Efficient statistical and computational methods for large scale sequencing data</a>, 2023 
-  
 - name: Mikkel Schubert 
   photo: mikkel.jpeg
   info: Staff Scientist at CMBR working with Torben Hansen and Anders Albrechtsen
   duration: started 2021
 
   
-

@@ -1,3 +1,23 @@
+- title: "Flexible read-aware genotype imputation from sequence using biobank sized reference panels"
+  name: QUILT2
+  image: quilt2.png
+  description: QUILT2 is a scalable, read-aware genotype imputation method that uses biobank-scale reference panels. It accurately imputes genotypes from short reads, long reads, linked reads and ancient DNA, and introduces a mode for jointly imputing maternal and fetal genomes from non-invasive prenatal testing data.
+  authors: "Li, Z.; Albrechtsen, A.; Davies, R.W."
+  link:
+    url: https://doi.org/10.1038/s41467-025-67218-1
+    display: "Nature Communications 17, 524 (2026)"
+  highlight: 1
+  software: https://github.com/rwdavies/QUILT
+
+- title: "Genetic regulation of the plasma proteome and its link to cardiometabolic disease in Greenlandic Inuit"
+  image: greenland-proteome.jpg
+  description: We analyzed genetic and plasma proteomics data from 3,707 Greenlandic individuals and identified 251 primary protein quantitative trait loci, including 70 novel associations. Arctic-enriched variants affecting protein abundance provided new insights into cardiometabolic disease in Greenland.
+  authors: "Stinson, S.E.; Balboa, R.F.; Andersen, M.K.; Stæger, F.F.; He, S.; Thuesen, A.C.B.; Lin, L.; Jørsboe, E.; Bjerregaard, P.; Larsen, C.V.L.; Grarup, N.; Jørgensen, M.E.; Moltke, I.; Albrechtsen, A.<sup>&#128232;</sup>; Hansen, T.<sup>&#128232;</sup>"
+  link:
+    url: https://doi.org/10.1016/j.ajhg.2025.10.013
+    display: "The American Journal of Human Genetics 112(12), 2982-2994 (2025)"
+  highlight: 1
+
 - title: "Pre-phasing long reads improves structural variant genotyping"
   image: svupp.png
   description: SVUPP achieved higher accuracy than cuteSV2, Sniffles2 and kanpig with both long and ultra long Oxford Nanopore Technologies (ONT) data as well as Pacific Biosciences (PacBio) HiFi data for genotyping SVs without close neighbor SVs.
@@ -25,6 +45,13 @@
   link: 
     url: https://doi.org/10.1038/s41467-025-63546-4
     display:  Nat Commun (2025)
+  highlight: 0
+
+- title: "High prevalence and common forms of maturity-onset diabetes of the young in Greenland"
+  authors: "Thuesen, A.C.B.; Backe, M.B.; Garcia-Erill, G.; Schubert, M.; Hanghøj, K.E.; Moltke, I.; Albrechtsen, A.; Grarup, N.; Gjesing, A.P.; Jørgensen, M.E.; Hansen, T.; Pedersen, M.L."
+  link:
+    url: https://doi.org/10.1016/j.jcjd.2025.01.002
+    display: "Canadian Journal of Diabetes 49(3), 142-151.e2 (2025)"
   highlight: 0
 
 - title: "Genetic architecture in Greenland is shaped by demography, structure and selection"
@@ -112,6 +139,13 @@
     display: "Nature(2024)"
   highlight: 0
   abstract: ""
+
+- title: "Utilizing non-invasive prenatal test sequencing data for human genetic investigation"
+  authors: "Liu, S.; Liu, Y.; Gu, Y.; Lin, X.; Zhu, H.; Liu, H.; Xu, Z.; Cheng, S.; Lan, X.; Li, L.; Huang, M.; Li, H.; Nielsen, R.; Davies, R.W.; Albrechtsen, A.; Chen, G.-B.; Qiu, X.; Jin, X.; Huang, S."
+  link:
+    url: https://doi.org/10.1016/j.xgen.2024.100669
+    display: "Cell Genomics 4(10), 100669 (2024)"
+  highlight: 0
 
 - title: Analysis of admixed Greenlandic siblings shows that the mean genotypic values for metabolic phenotypes differ between Inuit and Europeans
   image: sibpower.png

@@ -8,58 +8,113 @@ permalink: /research/
 
 # Research
 
-My Research interest are statistical and computational methods for analysis of genomic data
-including methods for multi-loci association studies, methods for detecting and correcting for
-population stratication, detecting selection on disease susceptibility genes, loci dependent
-methods for modelling identity by descent and various topics for analysis of second generation
-sequencing. 
+The Albrechtsen Lab develops statistical and computational methods for genomic data and
+applies them to questions in medical, population and evolutionary genetics. A recurring theme
+is how to extract reliable information from large or complex datasets when genotypes, ancestry,
+relatedness or haplotypes are uncertain.
 
-## Large scale multiomic studies to understand molecular mechanisms
-My main vision on the applied side is to set up large scale genetic studies that can answer basic biological questions in medical and population genetics. These studies are both large in the sense of having many individuals but also large in having deep phenotypes and multi-omic data, genome wide genetic data, deep RNAseq data, Proteomics, gut-microbiome and metabolomics.
-This data driven approach will enable us to understand the biological mechanism that genetic
-variation acts one. Today we know many genetic variants that aect traits and diseases but for
-most of them we don't understand how they do it. A molecular understanding of the pathology
-of diseases is a prerequisite for future rational treatment and prevention of many common
-diseases. A similar issue arises when variants are identified that a under adaptive selection.
-Without an understanding of the drivers of selection the biological knowledge gained is limited.
-This is why we need large and better dataset that can untangle the underlying mechanism. In
-order to do this we also need novel methods that can accommodate this multidimensional data
-which is something my lab is working hard on.
+Our research combines method development with collaborative studies of human populations and
+non-model organisms. The methods are released as open-source software whenever possible. See
+the [publications]({{ site.url }}{{ site.baseurl }}/publications/) and
+[software]({{ site.url }}{{ site.baseurl }}/software/) pages for the full lists.
 
-In the immediate future we will have generated massive amounts of data for interesting pop-
-ulations. These include the Greenlandic Inuit and Pakistani families where we now have whole genome information
-, deep RNAseq from whole blood, proteomic and metabolomics data from blood, and shotgun data
-for the gut microbiome. This data with appropriate analysis will enable us go far beyond gene-phenotype association so that we can actually understand how and why the genetic variants acts on the
-traits.
+## Multi-omics and molecular mechanisms
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/greenland-proteome.jpg"
+class="img-responsive" style="width: 32%; float: right; margin: 0 0 15px 20px"
+alt="Graphical overview of the Greenland plasma proteome study" />
 
-## Methods for low depth sequending
+Large genetic studies have identified many variants associated with disease and quantitative
+traits, but an association alone rarely explains the underlying biology. We integrate
+whole-genome data with detailed phenotypes and molecular measurements such as transcriptomics,
+proteomics, metabolomics and microbiome data. The goal is to connect genetic variation to
+molecular pathways and, ultimately, to disease mechanisms.
 
-## Method for ultra low sequencing
-![]({{ site.url }}{{ site.baseurl }}/images/respic/EMUchina.png){: style="width: 70%; float: center; margin: 10px"}
-Although sequencing data has become common in most fields of genetics there is one sequencing
-type which has not received much attention despite being the most used form of sequencing.
-Tens of millions of individuals have now been sequenced using whole genome ultra low depth
-sequencing due to its use in non-invasive parental testing (NIPT) of chromosomal anomalies
-in the fetus. Other studies have chosen low depth sequencing in order to increase the number
-of samples. Cost-effective strategy with the ever-increasing demand for larger sample sizes
-seems to advocate for the use of medium or low coverage sequencing. Larger sample sizes
-sequenced at lower depths will generally lead to better population-scale estimates of genetic
-variation compared to sequencing at higher depths at the cost of limited sample sizes.
-With this appealing trade-off, we recently conducted a genomic study on ultra-low coverage
-sequencing data of 141K Chinese pregnant women as part of the Chinese Millionome Project.
- The individuals underwent a non-invasive prenatal test (NIPT) which is common for testing fetal chromosomal abnormalities. The study provided insight into the genetic structure and history of the Chinese population
-as well as performing genome-wide association studies (GWAS) with principal components as
-covariates. The study had an average depth of < 0.1X, which allowed for the much larger
-sample size compared to other sequencing projects. However, in order analyze millions and
-tens of millions of samples, there are several issues which we try to deal with
+Recent work on the Greenlandic plasma proteome combined genetic and proteomic data from 3,707
+individuals. The study identified 251 primary protein quantitative trait loci, including 70
+previously unreported associations, and linked Arctic-enriched variants to cardiometabolic
+disease. These datasets also create methodological challenges involving relatedness, admixture,
+multiple molecular layers and population-specific variation.
 
-## Genetic studies in Greenland
+<div style="clear: both"></div>
 
+## Low-depth and read-aware sequencing
 
-## Method in population genetics
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/quilt2.png"
+class="img-responsive" style="width: 42%; float: left; margin: 0 20px 15px 0"
+alt="Overview of the QUILT2 genotype imputation method" />
 
+Sequencing more individuals at lower depth can be more informative than sequencing fewer
+individuals deeply, but the resulting genotypes are uncertain. Our methods therefore work
+directly with sequencing reads or genotype likelihoods instead of relying only on hard genotype
+calls.
 
+This research includes methods for estimating allele frequencies, population structure,
+admixture, relatedness, site-frequency spectra and association statistics from low-depth data.
+[QUILT2](https://github.com/rwdavies/QUILT) performs scalable, read-aware genotype imputation
+using biobank-sized reference panels and supports short reads, long reads, linked reads, ancient
+DNA and cell-free DNA. Other tools developed by the group include
+[ANGSD](http://www.popgen.dk/angsd/), [PCAngsd](https://github.com/Rosemeis/pcangsd),
+[NGSadmix](http://www.popgen.dk/software/index.php/NgsAdmix) and
+[winSFS](https://github.com/malthesr/winsfs).
 
+<div style="clear: both"></div>
 
-### ... and more.
+## Ultra-low-depth sequencing and NIPT
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/EMUchina.png"
+class="img-responsive" style="width: 48%; float: right; margin: 0 0 15px 20px"
+alt="Population structure inferred from ultra-low-depth Chinese sequencing data" />
+
+Non-invasive prenatal testing (NIPT) has generated sequencing data from millions of people,
+often at less than 0.1-fold genomic coverage. These data have substantial missingness and cannot
+be analysed reliably with many methods designed for array genotypes or high-coverage genomes.
+
+We develop scalable approaches that account for this uncertainty. The
+[EMU](https://github.com/Rosemeis/emu) method estimates population structure in data with
+extensive non-random missingness and was applied to approximately 100,000 individuals from the
+Chinese Millionome Project. QUILT2 extends this work by jointly modelling reads and reference
+haplotypes, including a mode designed to impute maternal and fetal genomes from cell-free NIPT
+data.
+
+<div style="clear: both"></div>
+
+## Genetics in Greenland
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/staeger2025.png"
+class="img-responsive" style="width: 38%; float: left; margin: 0 20px 15px 0"
+alt="Genetic structure and medically relevant variation in Greenland" />
+
+We collaborate on population and medical genetic studies in Greenland. The Greenlandic
+population has a distinctive demographic history and recent European admixture. Genetic
+variants that are rare elsewhere can reach high frequencies in Greenland and have substantial
+effects on health at the population level.
+
+Our work investigates demographic history, natural selection, population structure and the
+genetic basis of cardiometabolic disease. Studies have identified high-impact variants
+affecting type 2 diabetes, cholesterol, body weight and other metabolic traits. Recent
+whole-genome analyses have expanded the catalogue of Greenlandic variation and demonstrated
+why including underrepresented populations is essential for equitable genetic research and
+precision medicine.
+
+<div style="clear: both"></div>
+
+## Population-genetic methods
+
+Population structure, admixture and relatedness can create both biological insight and
+statistical bias. We develop methods to estimate these quantities, test whether fitted models
+adequately describe the data and correct downstream analyses when their assumptions are
+violated.
+
+Current topics include scalable principal component analysis, ancestry-aware linkage
+disequilibrium, pruning and clumping, admixture-model evaluation, haplotype inference,
+identity-by-descent and structural-variant genotyping. Representative software includes
+[PCAone](https://github.com/Zilong-Li/PCAone),
+[evalAdmix](http://www.popgen.dk/software/index.php/EvalAdmix),
+[evalPCA](https://github.com/popgenDK/evalPopStructure),
+[HaploNet](https://github.com/Rosemeis/HaploNet) and
+[SVUPP](https://github.com/Zilong-Li/SVUPP).
+
+The same approaches are used in studies of human history, wildlife conservation and
+non-model organisms, where sample quality, small population sizes and incomplete reference
+resources make uncertainty-aware analysis especially important.

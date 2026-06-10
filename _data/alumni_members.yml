@@ -1,3 +1,15 @@
+- name: Zilong Li
+  photo: zilong.jpg
+  info: PhD student and postdoc with Anders Albrechtsen
+  duration: In the lab 2020-2026. Now postdoc with Jonas Meisner
+  number_educ: 1
+  education1: PhD thesis <a href="https://researchprofiles.ku.dk/da/publications/efficient-statistical-and-computational-methods-for-large-scale-s">Efficient statistical and computational methods for large scale sequencing data</a>, 2023
+
+- name: Ulises Bercovich
+  photo: Ulises.jpeg
+  info: PhD student with Carsten Wiuf (main) and Anders Albrechtsen
+  duration: In the lab 2023-2026, at the Department of Mathematics
+
 - name: Renzo Balboa
   photo: renzo.jpeg
   info: Postdoc with Ida Moltke and Anders Albrechtsen
