@@ -1,33 +1,44 @@
-- title: Associate Professor, Biology, UCPH 
+- name: Rasmus Heller
+  title: Associate Professor, Biology, University of Copenhagen
   image: RH.jpg
-  description: I have worked on African wildlife genetics for almost two decades. My interests range from practical conservation to understanding theoretical evolutionary questions, such as how new species are formed and maintained and how animal populations move around in response to climate change and human influence.
+  description: Instructor in conservation genetics, genetic diversity, population structure, and conservation genomics.
   highlight: 1
   website: https://website.popgen.dk/
-  name: Rasmus Heller
 
-- title: Professor, Biology, UCPH 
+- name: Anders Albrechtsen
+  title: Professor, Biology, University of Copenhagen
   image: AA3.jpg
-  description: Our group develops statistical and computational methods for analysis of genomic data 
+  description: Instructor in next-generation sequencing data, population genomic methods, and demographic inference.
   highlight: 1
   website: https://website.popgen.dk/
-  name: Anders Albrechtsen
 
-- title: Postdoctoral Researcher, UCPH | Adjunct faculty, Pwani University 
-  image: Anubhab.jpg
-  description: I am interested in understanding how small isolated population survive or go extinct. I have been studying tropical wildlife and developing next-generation sequencing based tools and techniques for research and conservation of wildlife. 
+- name: Ida Moltke
+  title: Associate Professor, Biology, University of Copenhagen
+  image: IM.jpg
+  description: Instructor in population structure and admixture analysis.
   highlight: 1
-  website:
-  name: Anubhab Khan
+  website: https://idamoltke.wordpress.com/
 
-- title: Lecturer, Biology, Pwani University 
-  image: SWambua.jpeg
-  description: I have employed molecular biology in biomedical research for over 20 years. I have recently switched to utilizing genomics to explore and protect tropical species of conservation concern. Ongoing research work includes sea turtle immunogenetics, microbiome analysis for key marine ecosystems (including coral, seagrass and mangroves), and baseline genetic population structures for white teat sea cucumber, cichlids, corals, and the African elephant.
+- name: Nuno Martins
+  title: Instructor
+  image: nopic.png
+  description: Workshop instructor and practical-session facilitator.
   highlight: 1
-  website: http://pubrec.pu.ac.ke/index.php/about?view=article&id=48&catid=19
-  name: Sammy Wambua
 
-- title: Research Assistant, Biology, UCPH 
+- name: Harvider Pawer
+  title: Instructor
+  image: nopic.png
+  description: Instructor in gene flow and D-statistics, with a research talk on gorilla population genomics.
+  highlight: 1
+
+- name: Sabhrina Gita Aninta
+  title: Instructor
+  image: nopic.png
+  description: Workshop instructor and practical-session facilitator.
+  highlight: 1
+
+- name: Thomas Bøggild
+  title: PhD Student, Biology, University of Copenhagen
   image: thomas.png
-  description: Im currently finishing up my masters degree in bioinformatics at UCPH while working as a research assistant at the population genetics group at the university. 
-  highlight: 1 
-  name: Thomas Bøggild
+  description: Workshop instructor and practical-session facilitator.
+  highlight: 1
