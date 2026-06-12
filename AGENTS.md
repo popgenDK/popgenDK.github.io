@@ -263,6 +263,13 @@ corrections, and compatible security/dependency updates.
 
 ## Accessibility and Shared Markup
 
+- Keep HTML that must render directly flush-left inside Markdown files.
+  Four-space or tab indentation makes Kramdown emit escaped `<pre><code>`
+  blocks, including HTML generated inside Liquid loops.
+- Build local asset URLs with Jekyll's `relative_url` filter, for example
+  `{{ '/images/pubpic/' | append: publi.image | relative_url }}`. Do not prefix
+  local images with `site.url`; relative URLs must work under both
+  `jekyll serve` and the production domain.
 - Every `<img>` must have meaningful `alt` text. Use an empty alt only for a
   genuinely decorative image.
 - Do not create anchors with empty text or empty `href` values.
