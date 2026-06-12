@@ -150,6 +150,7 @@
 
 - title: Analysis of admixed Greenlandic siblings shows that the mean genotypic values for metabolic phenotypes differ between Inuit and Europeans
   image: sibpower.png
+  description: Sibling-based analysis separates genetic and environmental effects, showing ancestry-related differences in mean genetic values for metabolic traits between Inuit and Europeans.
   authors: Long Lin*, Mette K. Andersen*, Frederik Filip Stæger, Zilong Li, Kristian Hanghøj, Allan Linneberg, Niels Grarup, Marit Eika Jørgensen, Torben Hansen<sup>&#128232;</sup>, Ida Moltke<sup>&#128232;</sup> & Anders Albrechtsen<sup>&#128232;</sup> 
   link:
     url: https://doi.org/10.1186/s13073-024-01326-3
@@ -159,6 +160,7 @@
 
 - title: Introgression and disruption of migration routes have shaped the genetic integrity of wildebeest populations.
   image: wildebeest.jpeg
+  description: Genomic analyses show how historical introgression and modern barriers to migration have shaped diversity and genetic connectivity among wildebeest populations.
   authors: Xiaodong Liu* , Long Lin* , Mikkel-Holger S. Sinding* , Laura D. Bertola, Kristian Hanghøj, Liam Quinn, Genís Garcia-Erill, Malthe Sebro Rasmussen, Mikkel Schubert, Patrícia Pečnerová, Renzo F. Balboa, Zilong Li, Michael P. Heaton, Timothy P. L. Smith, Rui Resende Pinto, Xi Wang, Josiah Kuja, Anna Brüniche-Olsen, Jonas Meisner, Cindy G. Santander, Joseph O. Ogutu, Charles Masembe, Rute R. da Fonseca, Vincent Muwanika, Hans R. Siegismund, Anders Albrechtsen<sup>&#128232;</sup>, Ida Moltke<sup>&#128232;</sup>, Rasmus Heller<sup>&#128232;</sup>  
   link:
     url: https://doi.org/10.1038/s41467-024-47015-y
@@ -170,6 +172,7 @@
 
 - title: Giraffe lineages are shaped by major ancient admixture events
   image: giraffe.jpg
+  description: Whole-genome analyses reveal that ancient admixture played a major role in forming present-day giraffe lineages and their complex evolutionary relationships.
   authors: Laura D. Bertola* , Liam Quinn* , Kristian Hanghøj* , Genís Garcia-Erill, Malthe Sebro Rasmussen, Renzo F. Balboa, Jonas Meisner, Thomas Bøggild, Xi Wang, Long Lin, Casia Nursyifa, Xiaodong Liu, Zilong Li, Mumbi Chege, Yoshan Moodley, Anna Brüniche-Olsen, Josiah Kuja, Mikkel Schubert, Morris Agaba, Cindy G. Santander, Mikkel-Holger S. Sinding, Vincent Muwanika, Charles Masembe, Hans R. Siegismund, Ida Moltke  <sup>&#128232;</sup> , Anders Albrechtsen <sup>&#128232;</sup>, Rasmus Heller <sup>&#128232;</sup>,
   link: 
     url: https://doi.org/10.1016/j.cub.2024.02.051.
@@ -349,7 +352,7 @@
   news2: journal highlight [NEWS AND VIEWS](https://doi.org/10.1111/1755-0998.13530)
 
 - title: "Estimation of site frequency spectra from low-coverage sequencing data using stochastic EM reduces overfitting, runtime, and memory usage"
-  image: generic.jpeg
+  image: winsfs.svg
   description: Inference of the site frequency spectrum (SFS) from low-depth sequencing data. 
   authors: "Rasmussen M.S.; Garcia-Erill G.; Korneliussen T.S.; Wiuf C.; Albrechtsen A."
   link:
@@ -401,7 +404,10 @@
   abstract: "Paroxetine and sertraline are the only FDA approved drugs for treatment of posttraumatic stress disorder (PTSD). Although both drugs show better outcomes than placebo, not all patients benefit from treatment. We examined predictors and latent classes of SSRI treatment response in patients with PTSD. Symptom severity was measured over a 12-week period in 390 patients suffering from PTSD treated with open-label sertraline or paroxetine and a double-blinded placebo. First, growth curve modeling (GCM) was used to examine population-level predictors of treatment response. Second, growth mixture modeling (GMM) was used to group patients into latent classes based on their treatment response trajectories over time and to investigate predictors of latent class membership. Gender, childhood sexual trauma, and sexual assault as index trauma moderated the population-level treatment response using GCM. GMM identified three classes: fast responders, responders with low pretreatment symptom severity and responders with high pretreatment symptom severity. Class membership was predicted based on time since index trauma, severity of depression, and severity of anxiety. The study shows that higher severity of comorbid disorders does not result in an inferior response to treatment and suggests that patients with longer time since index trauma might particularly benefit from treatment with sertraline or paroxetine. "
 
 - title: "The genetic history of Greenlandic-European contact"
-  image: generic.jpeg
+  image: greenland-contact-fig2.jpg
+  image_credit: "Figure 2"
+  image_license: "CC BY 4.0"
+  image_license_url: https://creativecommons.org/licenses/by/4.0/
   description: Which European ancestors have contributed to the genomes of modern day Greenlanders? The dutch?. The basque?, the Germans? Despite diverse contact almost all of the European genetic ancestry comes from Denmark. 
   authors: "Waples R.K.; Hauptmann A.L.; Seiding I.; Jørsboe E.; Jørgensen M.E.; Grarup N.; Andersen M.K.; Larsen C.V.L.; Bjerregaard P.; Hellenthal G.; Hansen T.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>; Moltke I.<sup>&#128232;</sup>"
   link:
@@ -473,7 +479,7 @@
   name: EMU 
   
 - title: "NGSremix: A software tool for estimating pairwise relatedness between admixed individuals from next-generation sequencing data"
-  image: NGSremix.png
+  image: ngsremix.svg
   description: Estimating relatedness coefficients for admixture samples with low depth sequencing. Also works for F1 and other recently admixed indivudals. 
   authors: "Nøhr A.K.; Hanghøj K.; Garcia-Erill G.; Li Z.; Moltke I.; Albrechtsen A."
   link:
@@ -567,7 +573,7 @@
   abstract: "Background: Recent computational advances in ancient DNA research have opened access to the detection of ancient DNA methylation footprints at the genome-wide scale. The most commonly used approach infers the methylation state of a given genomic region on the basis of the amount of nucleotide mis-incorporations observed at CpG dinucleotide sites. However, this approach overlooks a number of confounding factors, including the presence of sequencing errors and true variants. The scale and distribution of the inferred methylation measurements are also variable across samples, precluding direct comparisons. Findings: Here, we present DamMet, an open-source software program retrieving maximum likelihood estimates of regional CpG methylation levels from ancient DNA sequencing data. It builds on a novel statistical model of post-mortem DNA damage for dinucleotides, accounting for sequencing errors, genotypes, and differential post-mortem cytosine deamination rates at both methylated and unmethylated sites. To validate DamMet, we extended gargammel, a sequence simulator for ancient DNA data, by introducing methylation-dependent features of post-mortem DNA decay. This new simulator provides direct validation of DamMet predictions. Additionally, the methylation levels inferred by DamMet were found to be correlated to those inferred by epiPALEOMIX and both on par and directly comparable to those measured from whole-genome bisulphite sequencing experiments of fresh tissues. Conclusions: DamMet provides genuine estimates for local DNA methylation levels in ancient individual genomes. The returned estimates are directly cross-sample comparable, and the software is available as an open-source C++ program hosted at https://gitlab.com/KHanghoj/DamMet along with a manual and tutorial. "
 
 - title: "Ancestry-specific association mapping in admixed populations"
-  image: generic.jpeg
+  image: asamap.svg
   description: Genetic association of ancestry specific effects when you do not have information about local ancestry. 
   authors: "Skotte L.; Jørsboe E.; Korneliussen T.S.; Moltke I.; Albrechtsen A."
   link:
@@ -589,7 +595,7 @@
   abstract: "Methylation of guanosine on position N7 (m7G) on internal RNA positions has been found in all domains of life and have been implicated in human disease. Here, we present m7G Mutational Profiling sequencing (m7G-MaP-seq), which allows high throughput detection of m7G modifications at nucleotide resolution. In our method, m7G modified positions are converted to abasic sites by reduction with sodium borohydride, directly recorded as cDNA mutations through reverse transcription and sequenced. We detect positions with increased mutation rates in the reduced and control samples taking the possibility of sequencing/alignment error into account and use replicates to calculate statistical significance based on log likelihood ratio tests. We show that m7G-MaP-seq efficiently detects known m7G modifications in rRNA with mutational rates up to 25% and we map a previously uncharacterised evolutionarily conserved rRNA modification at position 1581 in Arabidopsis thaliana SSU rRNA. Furthermore, we identify m7G modifications in budding yeast, human and arabidopsis tRNAs and demonstrate that m7G modification occurs before tRNA splicing. We do not find any evidence for internal m7G modifications being present in other small RNA, such as miRNA, snoRNA and sRNA, including human Let-7e. Likewise, high sequencing depth m7G-MaP-seq analysis of mRNA from E. coli or yeast cells did not identify any internal m7G modifications.  "
 
 - title: "Allele frequency-free inference of close familial relationships from genotypes or low-depth sequencing data"
-  image: generic.jpeg
+  image: ibsrelate.svg
   description: KING, RO, R1, statistics for relatedness based only two individuals. No reference panel or allele frequencies needed 
   authors: "Waples R.K.; Albrechtsen A.; Moltke I."
   link:
@@ -651,7 +657,7 @@
   abstract: "                             Aims/hypothesis: In a recent study using a standard additive genetic model, we identified a TBC1D4 loss-of-function variant with a large recessive impact on risk of type 2 diabetes in Greenlanders. The aim of the current study was to identify additional genetic variation underlying type 2 diabetes using a recessive genetic model, thereby increasing the power to detect variants with recessive effects. Methods: We investigated three cohorts of Greenlanders (B99, n = 1401; IHIT, n = 3115; and BBH, n = 547), which were genotyped using Illumina MetaboChip. Of the 4674 genotyped individuals passing quality control, 4648 had phenotype data available, and type 2 diabetes association analyses were performed for 317 individuals with type 2 diabetes and 2631 participants with normal glucose tolerance. Statistical association analyses were performed using a linear mixed model. Results: Using a recessive genetic model, we identified two novel loci associated with type 2 diabetes in Greenlanders, namely rs870992 in ITGA1 on chromosome 5 (OR 2.79, p = 1.8 × 10                             −8                             ), and rs16993330 upstream of LARGE1 on chromosome 22 (OR 3.52, p = 1.3 × 10                             −7                             ). The LARGE1 variant did not reach the conventional threshold for genome-wide significance (p < 5 × 10                             −8                             ) but did withstand a study-wide Bonferroni-corrected significance threshold. Both variants were common in Greenlanders, with minor allele frequencies of 23% and 16%, respectively, and were estimated to have large recessive effects on risk of type 2 diabetes in Greenlanders, compared with additively inherited variants previously observed in European populations. Conclusions/interpretation: We demonstrate the value of using a recessive genetic model in a historically small and isolated population to identify genetic risk variants. Our findings give new insights into the genetic architecture of type 2 diabetes, and further support the existence of high-effect genetic risk factors of potential clinical relevance, particularly in isolated populations. Data availability: The Greenlandic MetaboChip-genotype data are available at European Genome-Phenome Archive (EGA; https://ega-archive.org/) under the accession EGAS00001002641.                          "
 
 - title: "Loss-of-function variants in ADCY3 increase risk of obesity and type 2 diabetes"
-  image: generic.jpeg
+  image: adcy3.svg
   description: "We have identified a variant in ADCY3 (encoding adenylate cyclase 3) associated with markedly increased risk of obesity and type 2 diabetes in the Greenlandic population. The variant disrupts a splice acceptor site, and carriers have decreased ADCY3 RNA expression."
   authors: "Grarup N.; Moltke I.; Andersen M.K.; Dalby M.; Vitting-Seerup K.; Kern T.; Mahendran Y.; Jørsboe E.; Larsen C.V.L.; Dahl-Petersen I.K.; Gilly A.; Suveges D.; Dedoussis G.; Zeggini E.; Pedersen O.; Andersson R.; Bjerregaard P.; Jørgensen M.E.; Albrechtsen A.<sup>&#128232;</sup>; Hansen T.<sup>&#128232;</sup>"
   link:
@@ -661,7 +667,7 @@
   abstract: "We have identified a variant in ADCY3 (encoding adenylate cyclase 3) associated with markedly increased risk of obesity and type 2 diabetes in the Greenlandic population. The variant disrupts a splice acceptor site, and carriers have decreased ADCY3 RNA expression. Additionally, we observe an enrichment of rare ADCY3 loss-of-function variants among individuals with type 2 diabetes in trans-ancestry cohorts. These findings provide new information on disease etiology relevant for future treatment strategies. "
 
 - title: "Genomic Analyses from Non-invasive Prenatal Testing Reveal Genetic Associations, Patterns of Viral Infections, and Chinese Population History"
-  image: generic.jpeg
+  image: nipt-china.svg
   description: "Whole-genome sequencing data from 141,431 Chinese women generated for non-invasive prenatal testing (NIPT) for population genetic structure, GWAS maternal and infectious traits. "
   authors: "Liu S.; Huang S.; Chen F.; Zhao L.; Yuan Y.; Francis S.S.; Fang L.; Li Z.; Lin L.; Liu R.; Zhang Y.; Xu H.; Li S.; Zhou Y.; Davies R.W.; Liu Q.; Walters R.G.; Lin K.; Ju J.; Korneliussen T.; Yang M.A.; Fu Q.; Wang J.; Zhou L.; Krogh A.; Zhang H.; Wang W.; Chen Z.; Cai Z.; Yin Y.; Yang H.; Mao M.; Shendure J.; Wang J.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>; Jin X.<sup>&#128232;</sup>; Nielsen R.<sup>&#128232;</sup>; Xu X.<sup>&#128232;</sup>"
   link:
@@ -743,7 +749,7 @@
   abstract: "Background: Multiple endocrine neoplasia (MEN) 2A and 2B are caused by REarranged during Transfection (RET) germline mutations. In a recent nationwide study, an unusually high prevalence (33%) of families with the C611Y mutation was reported, and it was hypothesized that this might be due to a founder effect. The first nationwide study of haplotypes in MEN2A families was conducted, with the aim of investigating the relatedness and occurrence of de novo mutations among Danish families carrying similar mutations. Methods: The study included 21 apparently unrelated MEN2A families identified from a nationwide Danish RET cohort from 1994 to 2014. Twelve, two, two, three, and two families carried the C611Y, C618F, C618Y, C620R, and C634R mutations, respectively. Single nucleotide polymorphism chip data and identity by descent analysis were used to assess relatedness. Results: A common founder mutation was found among all 12 C611Y families and between both C618Y families. No relatedness was identified in the remaining families. Conclusion: The data suggest that all families with the C611Y germline mutation in Denmark originate from a recent common ancestor, probably explaining the unusually high prevalence of this mutation. Additionally, the results indicate that the C611Y mutation rarely arises de novo, thus underlining the need for thorough multigenerational genetic work up in carriers of this mutation. "
 
 - title: "FastNGSadmix: Admixture proportions and principal component analysis of a single NGS sample"
-  image: generic.jpeg
+  image: fastngsadmix.svg
   description: Estimates ancestry proportions and principal components for a single low-depth sequencing sample using reference population data.
   authors: "Jørsboe E.; Hanghøj K.; Albrechtsen A."
   link:
@@ -785,7 +791,7 @@
   abstract: "The genomic changes underlying both early and late stages of horse domestication remain largely unknown. We examined the genomes of 14 early domestic horses from the Bronze and Iron Ages, dating to between ∼4.1 and 2.3 thousand years before present. We find early domestication selection patterns supporting the neural crest hypothesis, which provides a unified developmental origin for common domestic traits. Within the past 2.3 thousand years, horses lost genetic diversity and archaic DNA tracts introgressed from a now-extinct lineage. They accumulated deleterious mutations later than expected under the cost-ofdomestication hypothesis, probably because of breeding from limited numbers of stallions. We also reveal that Iron Age Scythian steppe nomads implemented breeding strategies involving no detectable inbreeding and selection for coat-color variation and robust forelimbs. Copyright "
 
 - title: "The effect of an extreme and prolonged population bottleneck on patterns of deleterious variation: Insights from the Greenlandic Inuit"
-  image: generic.jpeg
+  image: greenland-bottleneck.svg
   description: The genetic consequences of population bottlenecks on patterns of deleterious genetic variation
   authors: "Pedersen C.-E.T.; Lohmueller K.E.; Grarup N.; Bjerregaard P.; Hansen T.; Siegismund H.R.; Moltke I.; Albrechtsen A."
   link:
@@ -795,8 +801,8 @@
   abstract: "The genetic consequences of population bottlenecks on patterns of deleterious genetic variation in human populations are of tremendous interest. Based on exome sequencing of 18 Greenlandic Inuit we show that the Inuit have undergone a severe ~20,000-year-long bottleneck. This has led to a markedly more extreme distribution of allele frequencies than seen for any other human population tested to date, making the Inuit the perfect population for investigating the effect of a bottleneck on patterns of deleterious variation. When comparing proxies for genetic load that assume an additive effect of deleterious alleles, the Inuit show, at most, a slight increase in load compared to European, East Asian, and African populations. Specifically, we observe <4% increase in the number of derived deleterious alleles in the Inuit. In contrast, proxies for genetic load under a recessive model suggest that the Inuit have a significantly higher load (20% increase or more) compared to other less bottlenecked human populations. Forward simulations under realistic models of demography support our empirical findings, showing up to a 6% increase in the genetic load for the Inuit population across all models of dominance. Further, the Inuit population carries fewer deleterious variants than other human populations, but those that are present tend to be at higher frequency than in other populations. Overall, our results show how recent demographic history has affected patterns of deleterious variants in human populations. "
 
 - title: "Weighting sequence variants based on their annotation increases power of whole-genome association studies"
-  image: generic.jpeg
-  description: 
+  image: variant-weighting.svg
+  description: A weighted significance framework uses functional annotations to prioritize variants and increase the power of whole-genome association studies.
   authors: "Sveinbjornsson G.; Albrechtsen A.; Zink F.; Gudjonsson S.A.; Oddson A.; Másson G.; Holm H.; Kong A.; Thorsteinsdottir U.; Sulem P.; Gudbjartsson D.F.; Stefansson K."
   link:
     url: https://doi.org/10.1038/ng.3507
@@ -825,8 +831,11 @@
   abstract: "Type 2 diabetes (T2D) affects millions of people worldwide. Improving the understanding of the underlying mechanisms and ultimately improving the treatment strategies are, thus, of great interest. To achieve this, identification of genetic variation predisposing to T2D is important. A large number of variants have been identified in large outbred populations, mainly from Europe and Asia. However, to elucidate additional variation, isolated populations have a number of advantageous properties, including increased amounts of linkage disequilibrium, and increased probability for presence of high frequency disease-associated variants due to genetic drift. Collectively, this increases the statistical power to detect association signals in isolated populations compared to large outbred populations. In this review, we elaborate on why isolated populations are a powerful resource for the identification of complex disease variants and describe their contributions to the understanding of the genetics of T2D. "
 
 - title: "Identification of Novel Genetic Determinants of Erythrocyte Membrane Fatty Acid Composition among Greenlanders"
-  image: generic.jpeg
-  description: 
+  image: fatty-acids-fig1.jpg
+  image_credit: "Figure 1"
+  image_license: "CC BY 4.0"
+  image_license_url: https://creativecommons.org/licenses/by/4.0/
+  description: Genetic analyses of Greenlanders identify variants influencing red blood cell membrane fatty acids and connect fatty acid composition with metabolic traits.
   authors: "Andersen M.K.; Jørsboe E.; Sandholt C.H.; Grarup N.; Jørgensen M.E.; Færgeman N.J.; Bjerregaard P.; Pedersen O.; Moltke I.; Hansen T.; Albrechtsen A."
   link:
     url: https://doi.org/10.1371/journal.pgen.1006119
@@ -885,8 +894,11 @@
   abstract: "Usher syndrome is an autosomal recessive disorder characterized by congenital hearing impairment, progressive visual loss owing to retinitis pigmentosa and in some cases vestibular dysfunction. Usher syndrome is divided into three subtypes, USH1, USH2 and USH3. Twelve loci and eleven genes have so far been identified. Duplications and deletions in PCDH15 and USH2A that lead to USH1 and USH2, respectively, have previously been identified in patients from United Kingdom, Spain and Italy. In this study, we investigate the proportion of exon deletions and duplications in PCDH15 and USH2A in 20 USH1 and 30 USH2 patients from Denmark using multiplex ligation-dependent probe amplification (MLPA). Two heterozygous deletions were identified in USH2A, but no deletions or duplications were identified in PCDH15. Next-generation mate-pair sequencing was used to identify the exact breakpoints of the two deletions identified in USH2A. Our results suggest that USH2 is caused by USH2A exon deletions in a small fraction of the patients, whereas deletions or duplications in PCDH15 might be rare in Danish Usher patients. "
 
 - title: "Uncovering the genetic history of the present-day greenlandic population"
-  image: generic.jpeg
-  description: 
+  image: greenland-history-fig2.jpg
+  image_credit: "Figure 2"
+  image_license: "CC BY 4.0"
+  image_license_url: https://creativecommons.org/licenses/by/4.0/
+  description: Population-scale data reveal regional Inuit genetic structure, substantial recent European ancestry, and a single Inuit colonization route across Greenland.
   authors: "Moltke I.; Fumagalli M.; Korneliussen T.S.; Crawford J.E.; Bjerregaard P.; Jørgensen M.E.; Grarup N.; Gulløv H.C.; Linneberg A.; Pedersen O.; Hansen T.<sup>&#128232;</sup>; Nielsen R.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1016/j.ajhg.2014.11.012
@@ -905,8 +917,8 @@
   abstract: "Yakutia, Sakha Republic, in the Siberian Far East, represents one of the coldest places on Earth, with winter record temperatures dropping below-70 °C. Nevertheless, Yakutian horses survive all year round in the open air due to striking phenotypic adaptations, including compact body conformations, extremely hairy winter coats, and acute seasonal differences in metabolic activities. The evolutionary origins of Yakutian horses and the genetic basis of their adaptations remain, however, contentious. Here, we present the complete genomes of nine present-day Yakutian horses and two ancient specimens dating from the early 19th century and ∼5,200 y ago. By comparing these genomes with the genomes of two Late Pleistocene, 27 domesticated, and three wild Przewalski's horses, we find that contemporary Yakutian horses do not descend from the native horses that populated the region until the mid-Holocene, but were most likely introduced following the migration of the Yakut people a few centuries ago. Thus, they represent one of the fastest cases of adaptation to the extreme temperatures of the Arctic. We find cisregulatorymutations to have contributed more than nonsynonymous changes to their adaptation, likely due to the comparatively limited standing variation within gene bodies at the time the population was founded. Genes involved in hair development, body size, and metabolic and hormone signaling pathways represent an essential part of the Yakutian horse adaptive genetic toolkit. Finally, we find evidence for convergent evolution with native human populations and woolly mammoths, suggesting that only a few evolutionary strategies are compatible with survival in extremely cold environments."
 
 - title: "The ancestry and affiliations of Kennewick Man"
-  image: generic.jpeg
-  description: 
+  image: kennewick.svg
+  description: Genome sequencing shows that the Ancient One, also known as Kennewick Man, was more closely related to Native Americans than to any other population.
   authors: "Rasmussen M.; Sikora M.; Albrechtsen A.; Korneliussen T.S.; Moreno-Mayar J.V.; Poznik G.D.; Zollikofer C.P.E.; Ponce De León M.S.; Allentoft M.E.; Moltke I.; Jónsson H.; Valdiosera C.; Malhi R.S.; Orlando L.; Bustamante C.D.; Stafford T.W., Jr.; Meltzer D.J.; Nielsen R.; Willerslev E."
   link:
     url: https://doi.org/10.1038/nature14625
@@ -925,8 +937,8 @@
   abstract: "The origin of maize (Zea mays mays) in the US Southwest remains contentious, with conflicting archaeological data supporting either coastal 1-4 or highland 5,6 routes of diffusion of maize into the United States. Furthermore, the genetics of adaptation to the new environmental and cultural context of the Southwest is largely uncharacterized 7. To address these issues, we compared nuclear DNA from 32 archaeological maize samples spanning 6,000 years of evolution to modern landraces. We found that the initial diffusion of maize into the Southwest about 4,000 years ago is likely to have occurred along a highland route, followed by gene flow from a lowland coastal maize beginning at least 2,000 years ago. Our population genetic analysis also enabled us to differentiate selection during domestication for adaptation to the climatic and cultural environment of the Southwest, identifying adaptation loci relevant to drought tolerance and sugar content. "
 
 - title: "Greenlandic Inuit show genetic signatures of diet and climate adaptation"
-  image: generic.jpeg
-  description: 
+  image: inuit-adaptation.svg
+  description: Strong selection in fatty acid metabolism genes reflects Inuit adaptation to an Arctic environment and a traditional diet rich in marine fats.
   authors: "Fumagalli M.; Moltke I.; Grarup N.; Racimo F.; Bjerregaard P.; Jørgensen M.E.; Korneliussen T.S.; Gerbault P.; Skotte L.; Linneberg A.; Christensen C.; Brandslund I.; Jørgensen T.; Huerta-Sánchez E.; Schmidt E.B.; Pedersen O.; Hansen T.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>; Nielsen R.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1126/science.aab2319
@@ -935,8 +947,8 @@
   abstract: "The indigenous people of Greenland, the Inuit, have lived for a long time in the extreme conditions of the Arctic, including low annual temperatures, and with a specialized diet rich in protein and fatty acids, particularly omega-3 polyunsaturated fatty acids (PUFAs). A scan of Inuit genomes for signatures of adaptation revealed signals at several loci, with the strongest signal located in a cluster of fatty acid desaturases that determine PUFA levels. The selected alleles are associated with multiple metabolic and anthropometric phenotypes and have large effect sizes for weight and height, with the effect on height replicated in Europeans. By analyzing membrane lipids, we found that the selected alleles modulate fatty acid composition, which may affect the regulation of growth hormones. Thus, the Inuit have genetic and physiological adaptations to a diet rich in PUFAs."
 
 - title: "Genomic evidence for the Pleistocene and recent population history of Native Americans"
-  image: generic.jpeg
-  description: 
+  image: native-american-history.svg
+  description: Ancient and modern genomes reconstruct the founding, diversification, and later gene flow that shaped Native American population history.
   authors: "Raghavan M.; Steinrücken M.; Harris K.; Schiffels S.; Rasmussen S.; DeGiorgio M.; Albrechtsen A.; Valdiosera C.; Ávila-Arcos M.C.; Malaspinas A.-S.; ... Manica A.; Durbin R.; Bustamante C.D.; Song Y.S.; Nielsen R.; Willerslev E."
   link:
     url: https://doi.org/10.1126/science.aab3884
@@ -954,8 +966,8 @@
   abstract: "The origin of contemporary Europeans remains contentious.We obtained a genome sequence from Kostenki 14 in European Russia dating from 38,700 to 36,200 years ago, one of the oldest fossils of anatomically modern humans from Europe.We find that Kostenki 14 shares a close ancestry with the 24,000-year-old Mal'ta boy fromcentral Siberia, European Mesolithic hunter-gatherers, some contemporarywestern Siberians, andmany Europeans, but not eastern Asians. Additionally, the Kostenki 14 genome shows evidence of shared ancestry with a population basal to all Eurasians that also relates to later European Neolithic farmers.We find that Kostenki 14 contains more Neandertal DNA that is contained in longer tracts than present Europeans. Our findings reveal the timing of divergence of western Eurasians and East Asians to be more than 36,200 years ago and that European genomic structure today dates back to the Upper Paleolithic and derives from a metapopulation that at times stretched from Europe to central Asia."
 
 - title: "The genetic prehistory of the New World Arctic"
-  image: generic.jpeg
-  description: 
+  image: arctic-prehistory.svg
+  description: Ancient genomes reveal a distinct Paleo-Eskimo migration into the Arctic, long-term genetic continuity, and later replacement by ancestors of present-day Inuit.
   authors: "Raghavan M.; DeGiorgio M.; Albrechtsen A.; Moltke I.; Skoglund P.; Korneliussen T.S.; Grønnow B.; Appelt M.; Gulløv H.C.; Friesen T.M.; Fitzhugh W.; Malmström H.; Rasmussen S.; Olsen J.; Melchior L.; Fuller B.T.; Fahrni S.M.; Stafford T., Jr.; Grimes V.; Renouf M.A.P.; Cybulski J.; Lynnerup N.; Lahr M.M.; Britton K.; Knecht R.; Arneborg J.; Metspalu M.; Cornejo O.E.; Malaspinas A.-S.; Wang Y.; Rasmussen M.; Raghavan V.; Hansen T.V.O.; Khusnutdinova E.; Pierre T.; Dneprovsky K.; Andreasen C.; Lange H.; Hayes M.G.; Coltrain J.; Spitsyn V.A.; Götherström A.; Orlando L.; Kivisild T.; Villems R.; Crawford M.H.; Nielsen F.C.; Dissing J.; Heinemeier J.; Meldgaard M.; Bustamante C.; O'Rourke D.H.; Jakobsson M.; Gilbert M.T.P.; Nielsen R.; Willerslev E."
   link:
     url: https://doi.org/10.1126/science.1255832
@@ -974,7 +986,11 @@
   abstract: "Horses, asses, and zebras belong to a single genus, Equus, which emerged 4.0-4.5 Mya. Although the equine fossil record represents a textbook example of evolution, the succession of events that gave rise to the diversity of species existing today remains unclear. Here we present six genomes from each living species of asses and zebras. This completes the set of genomes available for all extant species in the genus, which was hitherto represented only by the horse and the domestic donkey. In addition, we used a museum specimen to characterize the genome of the quagga zebra, which was driven to extinction in the early 1900s. We scan the genomes for lineage-specific adaptations and identify 48 genes that have evolved under positive selection and are involved in olfaction, immune response, development, locomotion, and behavior. Our extensive genome dataset reveals a highly dynamic demographic history with synchronous expansions and collapses on different continents during the last 400 ky after major climatic events. We show that the earliest speciation occurred with gene flow in Northern America, and that the ancestor of present-day asses and zebras dispersed into the Old World 2.1-3.4 Mya. Strikingly, we also find evidence for gene flow involving three contemporary equine species despite chromosomal numbers varying from 16 pairs to 31 pairs. These findings challenge the claim that the accumulation of chromosomal rearrangements drive complete reproductive isolation, and promote equids as a fundamental model for understanding the interplay between chromosomal structure, gene flow, and, ultimately, speciation. "
 
 - title: "ANGSD: Analysis of Next Generation Sequencing Data"
-  image: generic.jpeg
+  image: angsd-workflow.png
+  image_credit: "ANGSD workflow from the NGS inference tutorial"
+  image_source_url: https://github.com/popgenDK/courses/blob/main/summer2023/NGSinference/stage3A.png
+  image_license: "MIT License"
+  image_license_url: https://github.com/popgenDK/courses/blob/main/LICENSE
   description: Software for population genetic and medical genetic analysis of low depth sequencing data. 
   authors: "Korneliussen T.S.; Albrechtsen A.; Nielsen R."
   link:
@@ -986,7 +1002,7 @@
   name: ANGSD
 
 - title: "RelateAdmix: A software tool for estimating relatedness between admixed individuals"
-  image: generic.jpeg
+  image: relateadmix.svg
   description: Estimates pairwise relatedness between admixed individuals while accounting for population ancestry.
   authors: "Moltke I.; Albrechtsen A."
   link:
@@ -998,8 +1014,8 @@
   software: http://www.popgen.dk/software/index.php/RelateAdmix
 
 - title: "Upper palaeolithic Siberian genome reveals dual ancestry of native Americans"
-  image: generic.jpeg
-  description: 
+  image: malta-ancestry.svg
+  description: A 24,000-year-old Siberian genome shows that Native American ancestors received ancestry from both East Asian and ancient western Eurasian-related populations.
   authors: "Raghavan M.; Skoglund P.; Graf K.E.; Metspalu M.; Albrechtsen A.; Moltke I.; Rasmussen S.; Stafford T.W., Jr.; Orlando L.; Metspalu E.; Karmin M.; Tambets K.; Rootsi S.; Mägi R.; Campos P.F.; Balanovska E.; Balanovsky O.; Khusnutdinova E.; Litvinov S.; Osipova L.P.; Fedorova S.A.; Voevoda M.I.; Degiorgio M.; Sicheritz-Ponten T.; Brunak Sø.; Demeshchenko S.; Kivisild T.; Villems R.; Nielsen R.; Jakobsson M.; Willerslev E."
   link:
     url: https://doi.org/10.1038/nature12736
@@ -1057,8 +1073,8 @@
   abstract: "Clovis, with its distinctive biface, blade and osseous technologies, is the oldest widespread archaeological complex defined in North America, dating from 11,100 to 10,700 14 C years before present (bp) (13,000 to 12,600 calendar years bp). Nearly 50 years of archaeological research point to the Clovis complex as having developed south of the North American ice sheets from an ancestral technology. However, both the origins and the genetic legacy of the people who manufactured Clovis tools remain under debate. It is generally believed that these people ultimately derived from Asia and were directly related to contemporary Native Americans. An alternative, Solutrean, hypothesis posits that the Clovis predecessors emigrated from southwestern Europe during the Last Glacial Maximum. Here we report the genome sequence of a male infant (Anzick-1) recovered from the Anzick burial site in western Montana. The human bones date to 10,705 ± 35 14 C years bp (approximately 12,707-12,556 calendar years bp) and were directly associated with Clovis tools. We sequenced the genome to an average depth of 14.4× and show that the gene flow from the Siberian Upper Palaeolithic Mal'ta population into Native American ancestors is also shared by the Anzick-1 individual and thus happened before 12,600 years bp. We also show that the Anzick-1 individual is more closely related to all indigenous American populations than to any other group. Our data are compatible with the hypothesis that Anzick-1 belonged to a population directly ancestral to many contemporary Native Americans. Finally, we find evidence of a deep divergence in Native American populations that predates the Anzick-1 individual. "
 
 - title: "A common Greenlandic TBC1D4 variant confers muscle insulin resistance and type 2 diabetes"
-  image: generic.jpeg
-  description: 
+  image: tbc1d4.svg
+  description: A common loss-of-function TBC1D4 variant in Greenlanders impairs muscle glucose uptake and greatly increases the risk of type 2 diabetes.
   authors: "Moltke I.; Grarup N.; Jørgensen M.E.; Bjerregaard P.; Treebak J.T.; Fumagalli M.; Korneliussen T.S.; Andersen M.A.; Nielsen T.S.; Krarup N.T.; Gjesing A.P.; Zierath J.R.; Linneberg A.; Wu X.; Sun G.; Jin X.; Al-Aama J.; Wang J.; Borch-Johnsen K.; Pedersen O.; Nielsen R.<sup>&#128232;</sup>; Albrechtsen A.<sup>&#128232;</sup>; Hansen T.<sup>&#128232;</sup>"
   link:
     url: https://doi.org/10.1038/nature13425
@@ -1077,8 +1093,11 @@
   abstract: "Background:Cytokine response plays a vital role in various human lipopolysaccharide (LPS) infectious and inflammatory diseases. This study aimed to find genetic variants that might affect the levels of LPS-induced interleukin (IL)-6, IL-8, IL-10, IL-1ra and tumor necrosis factor (TNF)-α cytokine production.Methods:We performed an initial genome-wide association study using Affymetrix Human Mapping 500 K GeneChip® to screen 130 healthy individuals of Danish descent. The levels of IL-6, IL-8, IL-10, IL-1ra and TNF-α in 24-hour LPS-stimulated whole blood samples were compared within different genotypes. The 152 most significant SNPs were replicated using Illumina Golden Gate® GeneChip in an independent cohort of 186 Danish individuals. Next, 9 of the most statistical significant SNPs were replicated using PCR-based genotyping in an independent cohort of 400 Danish individuals. All results were analyzed in a combined study among the 716 Danish individuals.Results:Only one marker of the 500 K Gene Chip in the discovery study showed a significant association with LPS-induced IL-1ra cytokine levels after Bonferroni correction (P<10-7). However, this SNP was not associated with the IL-1ra cytokine levels in the replication dataset. No SNPs reached genome-wide significance for the five cytokine levels in the combined analysis of all three stages.Conclusions:The associations between the genetic variants and the LPS-induced IL-6, IL-8, IL-10, IL-1ra and TNF-α cytokine levels were not significant in the meta-analysis. This present study does not support a strong genetic effect of LPS-stimulated cytokine production; however, the potential for type II errors should be considered. "
 
 - title: "Exome sequencing-driven discovery of coding polymorphisms associated with common metabolic phenotypes"
-  image: generic.jpeg
-  description: 
+  image: exome-metabolism-fig1.jpg
+  image_credit: "Figure 1"
+  image_license: "CC BY 4.0"
+  image_license_url: https://creativecommons.org/licenses/by/4.0/
+  description: Large-scale exome sequencing identifies coding variants in CD300LG, COBLL1, and MACF1 associated with lipid levels and type 2 diabetes.
   authors: "Albrechtsen A.; Grarup N.; Li Y.; Sparsø T.; Tian G.; Cao H.; Jiang T.; Kim S.Y.; Korneliussen T.; Li Q.; Nie C.; Wu R.; Skotte L.; Morris A.P.; Ladenvall C.; Cauchi S.; Stančáková A.; Andersen G.; Astrup A.; Banasik K.; Bennett A.J.; Bolund L.; Charpentier G.; Chen Y.; Dekker J.M.; Doney A.S.F.; Dorkhan M.; Forsen T.; Frayling T.M.; Groves C.J.; Gui Y.; Hallmans G.; Hattersley A.T.; He K.; Hitman G.A.; Holmkvist J.; Huang S.; Jiang H.; Jin X.; Justesen J.M.; Kristiansen K.; Kuusisto J.; Lajer M.; Lantieri O.; Li W.; Liang H.; Liao Q.; Liu X.; Ma T.; Ma X.; Manijak M.P.; Marre M.; Mokrosiński J.; Morris A.D.; Mu B.; Nielsen A.A.; Nijpels G.; Nilsson P.; Palmer C.N.A.; Rayner N.W.; Renström F.; Ribel-Madsen R.; Robertson N.; Rolandsson O.; Rossing P.; Schwartz T.W.; Slagboom P.E.; Sterner M.; Tang M.; Tarnow L.; Tuomi T.; Van'T Riet E.; Van Leeuwen N.; Varga T.V.; Vestmar M.A.; Walker M.; Wang B.; Wang Y.; Wu H.; Xi F.; Yengo L.; Yu C.; Zhang X.; Zhang J.; Zhang Q.; Zhang W.; Zheng H.; Zhou Y.; Altshuler D.; 'T Hart L.M.; Franks P.W.; Balkau B.; Froguel P.; McCarthy M.I.; Laakso M.; Groop L.; Christensen C.; Brandslund I.; Lauritzen T.; Witte D.R.; Linneberg A.; Jørgensen T.; Hansen T.; Wang J.; Nielsen R.; Pedersen O."
   link:
     url: https://doi.org/10.1007/s00125-012-2756-1
@@ -1147,7 +1166,7 @@
   abstract: "Over the past few years, new high-throughput DNA sequencing technologies have dramatically increased speed and reduced sequencing costs. However, the use of these sequencing technologies is often challenged by errors and biases associated with the bioinformatical methods used for analyzing the data. In particular, the use of naïve methods to identify polymorphic sites and infer genotypes can inflate downstream analyses. Recently, explicit modeling of genotype probability distributions has been proposed as a method for taking genotype call uncertainty into account. Based on this idea, we propose a novel method for quantifying population genetic differentiation from next-generation sequencing data. In addition, we present a strategy for investigating population structure via principal components analysis. Through extensive simulations, we compare the new method herein proposed to approaches based on genotype calling and demonstrate a marked improvement in estimation accuracy for a wide range of conditions. We apply the method to a large-scale genomic data set of domesticated and wild silkworms sequenced at low coverage. We find that we can infer the fine-scale genetic structure of the sampled individuals, suggesting that employing this new method is useful for investigating the genetic relationships of populations sampled at low coverage. "
 
 - title: "Estimating individual admixture proportions from next generation sequencing data"
-  image: generic.jpeg
+  image: ngsadmix.svg
   description: NGSadmix estimates individual ancestry proportions directly from genotype likelihoods in low-depth sequencing data.
   authors: "Skotte L.; Korneliussen T.S.; Albrechtsen A."
   link:
@@ -1219,8 +1238,12 @@
   abstract: "Background: Estimation of allele frequency is of fundamental importance in population genetic analyses and in association mapping. In most studies using next-generation sequencing, a cost effective approach is to use medium or low-coverage data (e.g., < 15X). However, SNP calling and allele frequency estimation in such studies is associated with substantial statistical uncertainty because of varying coverage and high error rates.Results: We evaluate a new maximum likelihood method for estimating allele frequencies in low and medium coverage next-generation sequencing data. The method is based on integrating over uncertainty in the data for each individual rather than first calling genotypes. This method can be applied to directly test for associations in case/control studies. We use simulations to compare the likelihood method to methods based on genotype calling, and show that the likelihood method outperforms the genotype calling methods in terms of: (1) accuracy of allele frequency estimation, (2) accuracy of the estimation of the distribution of allele frequencies across neutrally evolving sites, and (3) statistical power in association mapping studies. Using real re-sequencing data from 200 individuals obtained from an exon-capture experiment, we show that the patterns observed in the simulations are also found in real data.Conclusions: Overall, our results suggest that association mapping and estimation of allele frequencies should not be based on genotype calling in low to medium coverage data. Furthermore, if genotype calling methods are used, it is usually better not to filter genotypes based on the call confidence score. "
 
 - title: "Genotype and SNP calling from next-generation sequencing data"
-  image: generic.jpeg
-  description: 
+  image: ngs-inference-workflow.png
+  image_credit: "NGS inference tutorial workflow"
+  image_source_url: https://github.com/popgenDK/courses/blob/main/summer2023/NGSinference/stages.png
+  image_license: "MIT License"
+  image_license_url: https://github.com/popgenDK/courses/blob/main/LICENSE
+  description: A review of statistical methods for calling genotypes and SNPs while accounting for uncertainty in next-generation sequencing data.
   authors: "Nielsen R.; Paul J.S.; Albrechtsen A.; Song Y.S."
   link:
     url: https://doi.org/10.1038/nrg2986
@@ -1229,8 +1252,8 @@
   abstract: "Meaningful analysis of next-generation sequencing (NGS) data, which are produced extensively by genetics and genomics studies, relies crucially on the accurate calling of SNPs and genotypes. Recently developed statistical methods both improve and quantify the considerable uncertainty associated with genotype calling, and will especially benefit the growing number of studies using low- to medium-coverage data. We review these methods and provide a guide for their use in NGS studies. "
 
 - title: "Ancient human genome sequence of an extinct Palaeo-Eskimo"
-  image: generic.jpeg
-  description: 
+  image: palaeo-eskimo.svg
+  description: A genome recovered from 4,000-year-old hair traces an early migration from Siberia into Greenland that was distinct from later Inuit expansion.
   authors: "Rasmussen M.; Li Y.; Lindgreen S.; Pedersen J.S.; Albrechtsen A.; Moltke I.; Metspalu M.; Metspalu E.; Kivisild T.; Gupta R.; Bertalan M.; Nielsen K.; Gilbert M.T.P.; Wang Y.; Raghavan M.; Campos P.F.; Kamp H.M.; Wilson A.S.; Gledhill A.; Tridico S.; Bunce M.; Lorenzen E.D.; Binladen J.; Guo X.; Zhao J.; Zhang X.; Zhang H.; Li Z.; Chen M.; Orlando L.; Kristiansen K.; Bak M.; Tommerup N.; Bendixen C.; Pierre T.L.; Gronnow B.; Meldgaard M.; Andreasen C.; Fedorova S.A.; Osipova L.P.; Higham T.F.G.; Ramsey C.B.; Hansen T.V.O.; Nielsen F.C.; Crawford M.H.; Brunak S.; Sicheritz-Pont́n T.; Villems R.; Nielsen R.; Krogh A.; Wang J.; Willerslev E."
   link:
     url: https://doi.org/10.1038/nature08835
@@ -1249,8 +1272,8 @@
   abstract: "Background: The growth hormone secretagogue receptor (GHSR) is mediating hunger sensation when stimulated by its natural ligand ghrelin. In the present study, we tested the hypothesis that common and rare variation in the GHSR locus are related to increased prevalence of obesity and overweight among Whites. Methodology/Principal Findings: In a population-based study sample of 15,854 unrelated, middle-aged Danes, seven variants were genotyped to capture common variation in an 11 kbp region including GHSR. These were investigated for their individual and haplotypic association with obesity. None of these analyses revealed consistent association with measures of obesity. A -151C/T promoter mutation in the GHSR was found in two unrelated obese patients. One family presented with complete co-segregation, but the other with incomplete co-segregation. The mutation resulted in an increased transcriptional activity (p<0.02) and introduction of a specific binding for Sp-1-like nuclear extracts relative to the wild type. The -151C/T mutation was genotyped in the 15,854 Danes with a minor allele frequency of 0.01%. No association with obesity in carriers (mean BMI: 27±64 kg/m2) versus non-carriers (mean BMI: 28±65 kg/m2) (p>0.05) could be shown. Conclusions/Significance: In a population-based study sample of 15,854 Danes no association between GHSR genotypes and measures of obesity and overweight was found. Also, analyses of GHSR haplotypes lack consistent associations with obesity related traits. A rare functional GHSR promoter mutation variant was identified, yet there was no consistent relationship with obesity in neither family- nor population-based studies. "
 
 - title: "Ascertainment biases in SNP chips affect measures of population divergence"
-  image: generic.jpeg
-  description: 
+  image: snp-ascertainment.svg
+  description: SNP discovery and genotype-calling biases can distort estimates of population differentiation and alter conclusions about demographic history.
   authors: "Albrechtsen A.; Nielsen F.C.; Nielsen R."
   link:
     url: https://doi.org/10.1093/molbev/msq148
@@ -1269,8 +1292,8 @@
   abstract: "Germ-line mutations in the tumour suppressor proteins BRCA1 and BRCA2 predispose to breast and ovarian cancer. We have recently identified a Greenlandic Inuit BRCA1 nucleotide 234T>G/c.115T>G (p.Cys39Gly) founder mutation, which at that time was the only disease-causing BRCA1/BRCA2 mutation identified in this population. Here, we describe the identification of a novel disease-causing BRCA1 nucleotide 4803delCC/c.4684delCC mutation in a Greenlandic Inuit with ovarian cancer. The mutation introduces a frameshift and a premature stop at codon 1572. We have also identified a BRCA1 nucleotide 249T>A/c.130T>A (p.Cys44Ser) mutation in another Greenlandic individual with ovarian cancer. This patient share a 1-2 Mb genomic fragment, containing the BRCA1 gene, with four Danish families harbouring the same mutation, suggesting that the 249T>A/c.130T>A (p.Cys44Ser) mutation originates from a Danish ancestor. We conclude that screening of Greenlandic Inuits with high risk of breast or ovarian cancer should include sequencing of the entire BRCA1 gene. "
 
 - title: "Natural selection and the distribution of identity-by-descent in the human genome"
-  image: generic.jpeg
-  description: 
+  image: ibd-selection.svg
+  description: Excess identity-by-descent sharing provides a way to detect recent natural selection, with the strongest signal found in the immune-related HLA region.
   authors: "Albrechtsen A.*; Moltke I.*; Nielsen R."
   link:
     url: https://doi.org/10.1534/genetics.110.113977
@@ -1389,7 +1412,7 @@
   abstract: "BRCA1 and BRCA2 germ-line mutations predispose to breast and ovarian cancer. Large genomic rearrangements of BRCA1 account for 0-36% of all disease causing mutations in various populations, while large genomic rearrangements in BRCA2 are more rare. We examined 642 East Danish breast and/or ovarian cancer patients in whom a deleterious mutation in BRCA1 and BRCA2 was not detected by sequencing using the multiplex ligation-dependent probe amplification (MLPA) assay. We identified 15 patients with 7 different genomic rearrangements, including a BRCA1 exon 5-7 deletion with a novel breakpoint, a BRCA1 exon 13 duplication, a BRCA1 exon 17-19 deletion, a BRCA1 exon 3-16 deletion, and a BRCA2 exon 20 deletion with a novel breakpoint as well as two novel BRCA1 exon 17-18 and BRCA1 exon 19 deletions. The large rearrangements in BRCA1 and BRCA2 accounted for 9.2% (15/163) of all BRCA1 and BRCA2 mutations in East Denmark. Nine patients had the exon 3-16 deletion in BRCA1. By SNP analysis we find that the patients share a 5 Mb fragment of chromosome 17, including BRCA1, indicating that the exon 3-16 deletion represents a Danish founder mutation. "
 
 - title: "Relatedness mapping and tracts of relatedness for genome-wide data in the presence of linkage disequilibrium"
-  image: generic.jpeg
+  image: relate.svg
   description: Relate identifies local identity-by-descent tracts while accounting for linkage disequilibrium in genome-wide data.
   authors: "Albrechtsen A.; Korneliussen T.S.; Moltke I.; van Overseem Hansen T.; Nielsen F.C.; Nielsen R."
   link:
@@ -1401,8 +1424,8 @@
   name: relate
 
 - title: "Genetic variant near IRS1 is associated with type 2 diabetes, insulin resistance and hyperinsulinemia"
-  image: generic.jpeg
-  description: 
+  image: irs1.svg
+  description: A common variant near IRS1 links type 2 diabetes risk to reduced insulin signaling, insulin resistance, and elevated insulin levels.
   authors: "Rung J.*; Cauchi S.*; Albrechtsen A.*; Shen L.; Rocheleau G.; Cavalcanti-Proença C.; Bacot F.; Balkau B.; Belisle A.; Borch-Johnsen K.; Charpentier G.; Dina C.; Durand E.; Elliott P.; Hadjadj S.; Järvelin M.-R.; Laitinen J.; Lauritzen T.; Marre M.; Mazur A.; Meyre D.; Montpetit A.; Pisinger C.; Posner B.; Poulsen P.; Pouta A.; Prentki M.; Ribel-Madsen R.; Ruokonen A.; Sandbaek A.; Serre D.; Tichet J.; Vaxillaire M.; Wojtaszewski J.F.P.; Vaag A.; Hansen T.; Polychronakos C.; Pedersen O.; Froguel P.; Sladek R."
   link:
     url: https://doi.org/10.1038/ng.443
@@ -1451,8 +1474,8 @@
   abstract: "Background: BRCA2 germ-line mutations predispose to breast and ovarian cancer. Mutations are widespread and unclassified splice variants are frequently encountered. We describe the parental origin and functional characterization of a novel de novo BRCA2 splice site mutation found in a patient exhibiting a ductal carcinoma at the age of 40. Methods: Variations were identified by denaturing high performance liquid chromatography (dHPLC) and sequencing of the BRCA1 and BRCA2 genes. The effect of the mutation on splicing was examined by exon trapping in COS-7 cells and by RT-PCR on RNA isolated from whole blood. The paternity was determined by single nucleotide polymorphism (SNP) microarray analysis. Parental origin of the de novo mutation was determined by establishing mutation-SNP haplotypes by variant specific PCR, while de novo and mosaic status was investigated by sequencing of DNA from leucocytes and carcinoma tissue. Results: A novel BRCA2 variant in the splice donor site of exon 21 (nucleotide 8982+1 G→A/c.8754+1 G→A) was identified. Exon trapping showed that the mutation activates a cryptic splice site 46 base pairs 3′ of exon 21, resulting in the inclusion of a premature stop codon and synthesis of a truncated BRCA2 protein. The aberrant splicing was verified by RT-PCR analysis on RNA isolated from whole blood of the affected patient. The mutation was not found in any of the patient's parents or in the mother's carcinoma, showing it is a de novo mutation. Variant specific PCR indicates that the mutation arose in the male germ-line. Conclusion: We conclude that the novel BRCA2 splice variant is a de novo mutation introduced in the male spermatozoa that can be classified as a disease causing mutation. "
 
 - title: "Low physical activity accentuates the effect of the FTO rs9939609 polymorphism on body fat accumulation"
-  image: generic.jpeg
-  description: 
+  image: fto-activity.svg
+  description: The obesity-associated effect of the FTO risk variant is stronger in physically inactive people, highlighting an interaction between genes and lifestyle.
   authors: "Andreasen C.H.; Stender-Petersen K.L.; Mogensen M.S.; Torekov S.S.; Wegner L.; Andersen G.; Nielsen A.L.; Albrechtsen A.; Borch-Johnsen K.; Rasmussen S.S.; Clausen J.O.; Sandbæk A.; Lauritzen T.; Hansen L.; Jørgensen T.; Pedersen O.; Hansen T."
   link:
     url: https://doi.org/10.2337/db07-0910

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="t d">
+<title id="t">ASAmap software illustration</title><desc id="d">An admixed chromosome with ancestry-specific association signals.</desc>
+<rect width="640" height="400" rx="28" fill="#eef5fb"/><text x="42" y="68" font-family="Arial" font-size="42" font-weight="700" fill="#194f72">ASAmap</text>
+<text x="44" y="100" font-family="Arial" font-size="19" fill="#4b748d">ancestry-specific association mapping</text>
+<g transform="translate(65 145)"><rect width="510" height="48" rx="24" fill="#fff" stroke="#194f72" stroke-width="4"/><path d="M24 2h95v44H24a22 22 0 0 1 0-44z" fill="#4c78a8"/><rect x="119" y="2" width="105" height="44" fill="#f2cf5b"/><rect x="224" y="2" width="135" height="44" fill="#e45756"/><path d="M359 2h127a22 22 0 0 1 0 44H359z" fill="#72b7b2"/>
+<path d="M0 150H510M0 150V80" stroke="#194f72" stroke-width="4"/><g fill="#e45756"><circle cx="46" cy="130" r="7"/><circle cx="93" cy="117" r="7"/><circle cx="152" cy="126" r="7"/><circle cx="205" cy="106" r="7"/><circle cx="260" cy="42" r="10"/><circle cx="306" cy="96" r="7"/><circle cx="365" cy="122" r="7"/><circle cx="420" cy="111" r="7"/><circle cx="475" cy="128" r="7"/></g><path d="M260 52V80" stroke="#e45756" stroke-width="5"/></g>
+</svg>

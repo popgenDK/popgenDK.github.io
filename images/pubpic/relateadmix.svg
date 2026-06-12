@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="t d">
+<title id="t">RelateAdmix software illustration</title><desc id="d">Admixed ancestry bars combined with a pedigree relationship.</desc>
+<rect width="640" height="400" rx="28" fill="#f7f1ed"/><text x="42" y="68" font-family="Arial" font-size="42" font-weight="700" fill="#663c2c">RelateAdmix</text>
+<text x="44" y="100" font-family="Arial" font-size="19" fill="#876353">relatedness accounting for ancestry</text>
+<g transform="translate(80 150)"><rect width="190" height="45" rx="8" fill="#fff" stroke="#663c2c" stroke-width="4"/><path d="M3 3h55v39H3z" fill="#5b8ff9"/><path d="M58 3h78v39H58z" fill="#f6bd16"/><path d="M136 3h51v39h-51z" fill="#e8684a"/><rect y="100" width="190" height="45" rx="8" fill="#fff" stroke="#663c2c" stroke-width="4"/><path d="M3 103h82v39H3z" fill="#5b8ff9"/><path d="M85 103h42v39H85z" fill="#f6bd16"/><path d="M127 103h60v39h-60z" fill="#e8684a"/></g>
+<g transform="translate(360 142)" stroke="#663c2c" stroke-width="6" fill="#fff"><circle cx="45" cy="35" r="31"/><rect x="140" y="4" width="62" height="62" rx="6"/><path d="M76 35h64M108 35v72M70 107h76"/><circle cx="70" cy="143" r="28"/><rect x="118" y="115" width="56" height="56" rx="6"/></g>
+</svg>

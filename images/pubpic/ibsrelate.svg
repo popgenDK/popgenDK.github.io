@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="t d">
+<title id="t">IBSrelate software illustration</title><desc id="d">A family network inferred from matching genomic segments.</desc>
+<rect width="640" height="400" rx="28" fill="#f5f3ed"/><text x="42" y="68" font-family="Arial" font-size="42" font-weight="700" fill="#53452f">IBSrelate</text>
+<text x="44" y="100" font-family="Arial" font-size="19" fill="#796b55">relationships without allele frequencies</text>
+<g stroke="#8c7651" stroke-width="7" fill="none"><path d="M205 180H435M245 180v70M395 180v70M245 250H395"/></g>
+<g fill="#fff" stroke="#53452f" stroke-width="5"><circle cx="205" cy="180" r="36"/><rect x="399" y="144" width="72" height="72" rx="8"/><circle cx="245" cy="286" r="36"/><rect x="359" y="250" width="72" height="72" rx="8"/></g>
+<g transform="translate(125 350)" stroke-width="8" stroke-linecap="round"><path d="M0 0h80" stroke="#5b8ff9"/><path d="M90 0h100" stroke="#f6bd16"/><path d="M200 0h65" stroke="#5b8ff9"/><path d="M275 0h95" stroke="#e8684a"/></g>
+</svg>

@@ -25,7 +25,10 @@ permalink: /software/
   {% endif %}
   <pubtit>{{ software.title }}</pubtit>
   {% if software.image %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ software.image }}" class="img-responsive" width="33%" style="float: left" alt="{{ software.name | default: software.title | escape }}" />
+  <img src="{{ '/images/pubpic/' | append: software.image | relative_url }}" class="img-responsive" width="33%" style="float: left" alt="{{ software.name | default: software.title | escape }} software illustration" />
+  {% endif %}
+  {% if software.image_credit %}
+  <p class="small">Image: <a href="{{ software.image_source_url | default: software.link.url }}" target="_blank" rel="noopener noreferrer">{{ software.image_credit }}</a>, <a href="{{ software.image_license_url }}" target="_blank" rel="noopener noreferrer">{{ software.image_license }}</a>.</p>
   {% endif %}
   <p>{{ software.description }}</p>
   <p><em>{{ software.authors }}</em></p>

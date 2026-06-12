@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="t d">
+<title id="t">fastNGSadmix software illustration</title><desc id="d">One low-depth sample projected rapidly against reference populations.</desc>
+<rect width="640" height="400" rx="28" fill="#edf7f1"/><text x="42" y="68" font-family="Arial" font-size="39" font-weight="700" fill="#20583c">fastNGSadmix</text>
+<text x="44" y="100" font-family="Arial" font-size="19" fill="#4e7a64">rapid ancestry for one low-depth sample</text>
+<g transform="translate(65 145)"><circle cx="65" cy="72" r="44" fill="#fff" stroke="#20583c" stroke-width="5"/><path d="M65 28a44 44 0 0 1 38 66H65z" fill="#f6bd16"/><path d="M65 116a44 44 0 0 1-38-66l38 22z" fill="#5b8ff9"/><path d="M27 50a44 44 0 0 1 38-22v44z" fill="#e8684a"/><path d="M130 72H275" stroke="#20583c" stroke-width="8" stroke-linecap="round"/><path d="M245 48l35 24-35 24" fill="none" stroke="#20583c" stroke-width="8" stroke-linejoin="round"/></g>
+<g transform="translate(380 145)"><rect width="180" height="145" rx="14" fill="#fff" stroke="#20583c" stroke-width="4"/><rect x="22" y="92" width="38" height="30" fill="#5b8ff9"/><rect x="71" y="55" width="38" height="67" fill="#f6bd16"/><rect x="120" y="28" width="38" height="94" fill="#e8684a"/><path d="M18 122h144" stroke="#20583c" stroke-width="3"/></g>
+</svg>

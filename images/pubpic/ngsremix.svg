@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="t d">
+<title id="t">NGSremix software illustration</title><desc id="d">Two admixed individuals connected by a kinship estimate.</desc>
+<rect width="640" height="400" rx="28" fill="#f3f0fa"/><text x="42" y="68" font-family="Arial" font-size="42" font-weight="700" fill="#3f2a68">NGSremix</text>
+<text x="44" y="100" font-family="Arial" font-size="19" fill="#665482">relatedness from low-depth admixed data</text>
+<g transform="translate(95 145)"><circle cx="70" cy="55" r="42" fill="#5b8ff9"/><path d="M70 13a42 42 0 0 1 0 84z" fill="#f6bd16"/><path d="M20 160c8-55 92-55 100 0" fill="#5b8ff9"/><path d="M70 119c28 0 47 14 50 41H70z" fill="#f6bd16"/></g>
+<g transform="translate(425 145)"><circle cx="50" cy="55" r="42" fill="#e8684a"/><path d="M50 13a42 42 0 0 1 0 84z" fill="#5ad8a6"/><path d="M0 160c8-55 92-55 100 0" fill="#e8684a"/><path d="M50 119c28 0 47 14 50 41H50z" fill="#5ad8a6"/></g>
+<path d="M235 220H405" stroke="#3f2a68" stroke-width="7" stroke-dasharray="13 10"/><rect x="270" y="178" width="100" height="82" rx="14" fill="#fff" stroke="#3f2a68" stroke-width="4"/>
+<text x="320" y="212" text-anchor="middle" font-family="Arial" font-size="18" fill="#665482">KINSHIP</text><text x="320" y="244" text-anchor="middle" font-family="Arial" font-size="27" font-weight="700" fill="#3f2a68">k</text>
+</svg>

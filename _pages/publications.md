@@ -30,6 +30,9 @@ permalink: /publications/
 <a href="{{ publi.link.url }}" target="_blank" rel="noopener noreferrer">
 <img src="{{ '/images/pubpic/' | append: publi.image | relative_url }}" alt="{{ publi.title | escape }}" title="{{ publi.abstract }}" class="img-responsive" width="33%" style="float: left" />
 </a>
+  {% if publi.image_credit %}
+  <p class="small">Image: <a href="{{ publi.image_source_url | default: publi.link.url }}" target="_blank" rel="noopener noreferrer">{{ publi.image_credit }}</a>, <a href="{{ publi.image_license_url }}" target="_blank" rel="noopener noreferrer">{{ publi.image_license }}</a>.</p>
+  {% endif %}
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>

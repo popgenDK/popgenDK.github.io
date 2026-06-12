@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="t d">
+<title id="t">Relate software illustration</title><desc id="d">Shared identity-by-descent tracts mapped along paired chromosomes.</desc>
+<rect width="640" height="400" rx="28" fill="#f2f5ee"/><text x="42" y="68" font-family="Arial" font-size="44" font-weight="700" fill="#38523a">relate</text>
+<text x="44" y="100" font-family="Arial" font-size="19" fill="#637a65">local identity-by-descent mapping</text>
+<g transform="translate(65 155)"><text x="0" y="20" font-family="Arial" font-size="18" fill="#38523a">individual A</text><rect x="120" width="390" height="38" rx="19" fill="#dce7d8"/><path d="M145 3h115v32H145z" fill="#5b8ff9"/><path d="M330 3h92v32h-92z" fill="#e8684a"/>
+<text x="0" y="105" font-family="Arial" font-size="18" fill="#38523a">individual B</text><rect x="120" y="85" width="390" height="38" rx="19" fill="#dce7d8"/><path d="M145 88h115v32H145z" fill="#5b8ff9"/><path d="M330 88h92v32h-92z" fill="#e8684a"/><path d="M202 38v47M376 38v47" stroke="#38523a" stroke-width="4" stroke-dasharray="7 7"/><path d="M120 165H510" stroke="#38523a" stroke-width="4"/><g stroke="#38523a" stroke-width="3"><path d="M120 157v16M218 157v16M315 157v16M413 157v16M510 157v16"/></g></g>
+</svg>

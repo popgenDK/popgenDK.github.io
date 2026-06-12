@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-labelledby="t d">
+<title id="t">NGSadmix software illustration</title><desc id="d">Low-depth sequencing reads converted into individual ancestry proportions.</desc>
+<rect width="640" height="400" rx="28" fill="#eef3fa"/><text x="42" y="68" font-family="Arial" font-size="43" font-weight="700" fill="#274c77">NGSadmix</text>
+<text x="44" y="100" font-family="Arial" font-size="19" fill="#587594">ancestry proportions from genotype likelihoods</text>
+<g transform="translate(55 145)" stroke-width="8" stroke-linecap="round"><path d="M0 22h90" stroke="#5b8ff9"/><path d="M28 62h105" stroke="#e8684a"/><path d="M5 102h112" stroke="#5ad8a6"/><path d="M44 142h86" stroke="#f6bd16"/></g>
+<path d="M210 215H295M270 192l32 23-32 23" fill="none" stroke="#274c77" stroke-width="8"/><g transform="translate(330 148)"><rect width="245" height="150" rx="14" fill="#fff" stroke="#274c77" stroke-width="4"/><g transform="translate(18 22)"><rect width="42" height="105" fill="#5b8ff9"/><rect x="42" width="18" height="105" fill="#f6bd16"/><rect x="72" width="20" height="105" fill="#5b8ff9"/><rect x="92" width="40" height="105" fill="#e8684a"/><rect x="144" width="18" height="105" fill="#5ad8a6"/><rect x="162" width="48" height="105" fill="#f6bd16"/></g></g>
+</svg>
