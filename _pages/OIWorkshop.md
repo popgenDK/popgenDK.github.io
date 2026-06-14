@@ -1,5 +1,5 @@
 ---
-title: "Conservation Genomics Workshop 2026"
+title: "Conservation and Population Genomics Workshop 2026"
 layout: gridlay
 excerpt: "Hands-on conservation genomics workshop at Mpala Research Centre, Kenya"
 sitemap: false
@@ -39,12 +39,14 @@ permalink: /workshop/
 
 ## General information
 
-**Dates:** August 19-25, 2026 (teaching August 19-23) <br/>
+**Dates:** August 19-23, 2026 <br/>
 **Venue:** [Mpala Research Centre](https://mpala.org/), Laikipia, Kenya <br/>
 **Participants:** Approximately 25 students from Kenya and other African countries <br/>
 **Format:** On-site lectures with hands-on exercises run on a server in Copenhagen <br/>
-**Context:** The workshop is connected with the annual African BioGenome Project East Africa Regional Meeting in Nairobi on August 17-18, 2026. <br/>
+**Context:** The workshop is connected with the annual African BioGenome Project (AfricaBP) Open Institute Eastern Africa Regional Workshop in Nairobi on August 17-18, 2026. <br/>
 **Registration:** Registration information will be provided through the African BioGenome Project. <br/>
+**What will be supplied:** Simple dorm-style accommodation, all meals during the workshop and transport pick-up Nanyuki-Mpala will be provided at no cost to workshop participants.  <br/>
+
 
 The workshop is a comprehensive, hands-on introduction to population genomic analyses of next-generation sequencing data, with an emphasis on wildlife conservation. Lectures will be combined with practical computer exercises, discussions, and research talks presenting conservation genomics case studies.
 
