@@ -45,7 +45,7 @@ permalink: /workshop/
 **Format:** On-site lectures with hands-on exercises run on a server in Copenhagen <br/>
 **Context:** The workshop is connected with the annual African BioGenome Project (AfricaBP) Open Institute Eastern Africa Regional Workshop in Nairobi on August 17-18, 2026. <br/>
 **Registration:** Registration information will be provided through the African BioGenome Project. <br/>
-**What will be supplied:** Simple dorm-style accommodation, all meals during the workshop and transport pick-up Nanyuki-Mpala will be provided at no cost to workshop participants.  <br/>
+**What will be supplied:** Simple dorm-style accommodation, all meals during the workshop and transport pick-up Nanyuki-Mpala (on August 18 and back 23) will be provided at no cost to workshop participants.  <br/>
 **Prerequisites:** Participants are expected to have some previous exposure to and experience with genetics, preferably with population genetics. Experience with NGS data, genomics, statistics and/or programming is considered an advantage, but not an absolute requirement. Participants must bring a laptop that can access the internet (wifi is available).   <br/>
 
 
