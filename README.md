@@ -17,3 +17,5 @@ Before committing changes, verify the production build:
 bundle exec jekyll build
 git diff --check
 ```
+
+The live site is published from the `gh-pages` branch.
