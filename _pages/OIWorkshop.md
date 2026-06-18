@@ -17,13 +17,13 @@ permalink: /workshop/
 
   <div class="carousel-inner" markdown="0">
     <div class="item active">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/slider/wildeBeastMap.png" alt="Map of wildebeest populations" />
+      <img src="{{ '/images/slider/wildeBeastMap.png' | relative_url }}" alt="Map of wildebeest populations" />
     </div>
     <div class="item">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/slider/wildebeestPCA_admix.png" alt="Population structure analyses" />
+      <img src="{{ '/images/slider/wildebeestPCA_admix.png' | relative_url }}" alt="Population structure analyses" />
     </div>
     <div class="item">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/slider/wildebeest_het.png" alt="Genetic diversity analysis" />
+      <img src="{{ '/images/slider/wildebeest_het.png' | relative_url }}" alt="Genetic diversity analysis" />
     </div>
   </div>
 
@@ -85,7 +85,7 @@ After the workshop, participants should be able to:
 <div class="well">
 <h2>{{ yml.name }}</h2>
 <pubtit>{{ yml.title }}</pubtit>
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ yml.image }}" class="img-responsive" width="33%" style="float: left" alt="{{ yml.name }}" />
+<img src="{{ '/images/teampic/' | append: yml.image | relative_url }}" class="img-responsive" width="33%" style="float: left" alt="{{ yml.name }}" />
 <p>{{ yml.description }}{% if yml.website %} <strong><a href="{{ yml.website }}">Website</a></strong>{% endif %}</p>
 </div>
 </div>

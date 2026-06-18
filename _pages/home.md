@@ -1,5 +1,5 @@
 ---
-title: "Albrechtsen Lab - Home test"
+title: "Albrechtsen Lab"
 layout: homelay
 excerpt: "Albrechtsen Lab"
 sitemap: false
@@ -15,28 +15,27 @@ permalink: /
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/caucasian.phased.haplonet.merged.anno.png" alt="Slide 1" />
+            <img src="{{ '/images/slider/caucasian.phased.haplonet.merged.anno.png' | relative_url }}" alt="Haplotype network for Caucasian genetic variation" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/fig2.k40.png" alt="Slide 2" />
+            <img src="{{ '/images/slider/fig2.k40.png' | relative_url }}" alt="Population genetic structure plot" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/check.anno.png" alt="Slide 3" />
+            <img src="{{ '/images/slider/check.anno.png' | relative_url }}" alt="Annotated genomic analysis check plot" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/tp.png" alt="Slide 4" />
+            <img src="{{ '/images/slider/tp.png' | relative_url }}" alt="Population genetics analysis visualization" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/ukb-loadings.png" alt="Slide 5" />
+            <img src="{{ '/images/slider/ukb-loadings.png' | relative_url }}" alt="UK Biobank principal component loadings" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/e9.pies.noDK.png" alt="Slide 6" />
+            <img src="{{ '/images/slider/e9.pies.noDK.png' | relative_url }}" alt="Admixture proportions shown as population pie charts" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -54,7 +53,7 @@ Our group develops statistical and computational methods for analysis of genomic
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KUlogo.jpg" style="width: 120px" alt="University of Copenhagen">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DFF_Logo.png" style="width: 120px" alt="Independent Research Fund Denmark">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/novo_fundation_logo.jpg" style="width: 120px" alt="Novo Nordisk Foundation">
+  <img src="{{ '/images/logopic/KUlogo.jpg' | relative_url }}" style="width: 120px" alt="University of Copenhagen">
+  <img src="{{ '/images/logopic/DFF_Logo.png' | relative_url }}" style="width: 120px" alt="Independent Research Fund Denmark">
+  <img src="{{ '/images/logopic/novo_fundation_logo.jpg' | relative_url }}" style="width: 120px" alt="Novo Nordisk Foundation">
 </figure>

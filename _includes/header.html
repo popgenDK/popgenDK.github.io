@@ -8,36 +8,36 @@
 		<span class="icon-bar"></span>
 	  </button>
 	
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">Anders Albrechtsen</a>
+    <a class="navbar-brand" href="{{ '/' | relative_url }}">Anders Albrechtsen</a>
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
+		<li><a href="{{ '/' | relative_url }}">Home</a></li>
 		   <!-- Group Dropdown -->  
     		<li class="dropdown">
 			<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" aria-label="Open Group menu">
 			Group <span class="caret"></span>
       		</a>
       		<ul class="dropdown-menu">
-        		<li><a href="{{ site.url }}{{ site.baseurl }}/team">A-lab group</a></li>
-			<li><a href="{{ site.url }}{{ site.baseurl }}/popgen_group">Popgen Group</a></li> 
+				<li><a href="{{ '/team' | relative_url }}">A-lab group</a></li>
+			<li><a href="{{ '/popgen_group' | relative_url }}">Popgen Group</a></li>
     		</ul>
     		</li>
 		   <!-- Group Dropdown -->
 		
-		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/software">Software</a></li> 
-		<li><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li>
+		<li><a href="{{ '/publications' | relative_url }}">Publications</a></li>
+		<li><a href="{{ '/software' | relative_url }}">Software</a></li>
+		<li><a href="{{ '/research' | relative_url }}">Research</a></li>
 		<!-- Courses Dropdown -->
 		<li class="dropdown">
 		<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" aria-label="Open Courses menu">
 			Courses <span class="caret"></span>
 		</a>
 		<ul class="dropdown-menu">
-		<li><a href="{{ site.url }}{{ site.baseurl }}/summer">Summer CPH</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/workshop">Kenya Workshop</a></li>
+		<li><a href="{{ '/summer' | relative_url }}">Summer CPH</a></li>
+		<li><a href="{{ '/workshop' | relative_url }}">Kenya Workshop</a></li>
 		<li role="separator" class="divider"></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/old_courses">Old Courses</a></li>
+		<li><a href="{{ '/old_courses' | relative_url }}">Old Courses</a></li>
 		</ul>
 		</li>
 		<!-- Courses Dropdown -->
@@ -47,7 +47,7 @@
 			EPIC <span class="caret"></span>
       		</a>
       		<ul class="dropdown-menu">
-        		<li><a href="{{ site.url }}{{ site.baseurl }}/EPIC_seminar">Epic seminar</a></li>
+				<li><a href="{{ '/EPIC_seminar' | relative_url }}">Epic seminar</a></li>
         		<li><a href="https://popgen.dk/epic/">EPIC conference</a></li>
       		</ul>
     		</li>
