@@ -120,7 +120,7 @@ Participants must bring a laptop. The practical exercises will use a remote serv
 <ul>
   <li>Morning: Introduction to conservation genetics</li>
   <p style="margin-left: 2em;"    >Introduction to linux/bash and Jupyter notebooks/li>
-  <li>Afternoon: Introduction to NGS data</li>
+  </p> Afternoon: Introduction to NGS data</li>
 </ul>
 
 ### Thursday, August 20
