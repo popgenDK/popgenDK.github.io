@@ -138,7 +138,7 @@ Participants must bring a laptop. The practical exercises will use a remote serv
 
 - Morning: Heterozygosity, and runs of homozygosity
 - Afternoon: Conservation genomics in practice
-+ _ Research talks
+  _ Research talks
 
 ### Daily schedule
 
