@@ -127,7 +127,8 @@ Introduction to linux/bash and Jupyter notebooks
 ### Friday, August 21
 
 - **Morning:** Admixture
-- **Afternoon:** PCA; Gene flow
+- **Afternoon:** PCA<br/>
+Gene flow
 
 ### Saturday, August 22
 
