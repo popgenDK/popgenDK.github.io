@@ -126,7 +126,8 @@ Participants must bring a laptop. The practical exercises will use a remote serv
 ### Friday, August 21
 
 - Morning: Admixture
-- Afternoon: PCA \nGene flow
+- Afternoon: PCA \
+  Gene flow
 
 ### Saturday, August 22
 
@@ -136,8 +137,8 @@ Participants must bring a laptop. The practical exercises will use a remote serv
 ### Sunday, August 23
 
 - Morning: Heterozygosity, and runs of homozygosity
-- Afternoon: Conservation genomics in practice
-              Research talks
+- Afternoon: Conservation genomics in practice \
+   Research talks
 
 ### Daily schedule
 
