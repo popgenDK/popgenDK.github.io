@@ -57,8 +57,8 @@ The workshop is a comprehensive, hands-on introduction to population genomic ana
 - Genetic diversity, heterozygosity, FST, and runs of homozygosity
 - Selection and genome scans
 - Population structure and admixture
-- Gene flow, D-statistics, and phylogenetic trees
-- Demographic inference, the site frequency spectrum, and PSMC
+- Gene flow, D-statistics
+- Demographic inference, the site frequency spectrum
 - Applying conservation genomics in practice
 
 ## Intended learning outcomes
@@ -114,34 +114,37 @@ Participants must bring a laptop. The practical exercises will use a remote serv
 
 ### Wednesday, August 19
 
-- Morning: Introduction to conservation genetics and genetic diversity
-- Afternoon: Introduction to NGS data and computer exercise
+- Morning: Introduction to conservation genetics
+           Introduction to linux/bash and Jupyter notebooks
+- Afternoon: Introduction to NGS data
 
 ### Thursday, August 20
 
-- Morning: Heterozygosity, FST, and runs of homozygosity
-- Afternoon: Selection, genome scans, and computer exercise
+- Morning: Demographic inference, coalescence, SFS
+- Afternoon: Research talks
 
 ### Friday, August 21
 
-- Morning: Admixture and computer exercise
-- Afternoon: PCA, gene flow, D-statistics, trees, and computer exercise
+- Morning: Admixture
+- Afternoon: PCA
+             Gene flow
 
 ### Saturday, August 22
 
-- Morning: Demographic inference and computer exercise
-- Afternoon: Site frequency spectrum, PSMC, and computer exercise
+- Morning: Relatedness, FST
+- Afternoon: Positive selection, genome scans
 
 ### Sunday, August 23
 
-- Conservation genomics in practice
-- Research talks and discussion
-- Collaborative project work
+- Morning: Heterozygosity, and runs of homozygosity
+- Afternoon: Conservation genomics in practice
+              Research talks
 
 ### Daily schedule
 
 - 09:00-12:00: Morning lecture and practical
 - 12:00-13:00: Lunch
 - 13:00-16:00: Afternoon lecture and practical
+- 16:00-18:00: Seminar or short field trip
 - 16:00-18:00: Field trip, seminar, or other activity
 - 18:00-19:00: Dinner
