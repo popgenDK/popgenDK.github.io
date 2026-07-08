@@ -116,7 +116,7 @@ Participants must bring a laptop. The practical exercises will use a remote serv
 
 <ul>
   <li>Morning: Introduction to conservation genetics</li>
-  <p style="margin-left: 2em;">    Introduction to linux/bash and Jupyter notebooks</p>
+  <p style="margin-left: 2em;"    >Introduction to linux/bash and Jupyter notebooks</p>
   <li>Afternoon: Introduction to NGS data</li>
 </ul>
 
