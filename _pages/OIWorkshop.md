@@ -126,8 +126,7 @@ Participants must bring a laptop. The practical exercises will use a remote serv
 ### Friday, August 21
 
 - Morning: Admixture
-- Afternoon: PCA
-             Gene flow
+- Afternoon: PCA \nGene flow
 
 ### Saturday, August 22
 
