@@ -115,7 +115,7 @@ Participants must bring a laptop. The practical exercises will use a remote serv
 ### Wednesday, August 19
 
 - Morning: Introduction to conservation genetics
-*     Introduction to linux/bash and Jupyter notebooks
+     Introduction to linux/bash and Jupyter notebooks
 - Afternoon: Introduction to NGS data
 
 ### Thursday, August 20
