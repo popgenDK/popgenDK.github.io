@@ -110,17 +110,19 @@ Mpala Research Centre is in the Laikipia ecosystem, approximately four hours by 
 
 Participants must bring a laptop. The practical exercises will use a remote server, so laptops with any major operating system can be used.
 
-## Preliminary program
+## Program
 
 ### Wednesday, August 19
 
-- **Morning:** Introduction to conservation genetics; Introduction to linux/bash and Jupyter notebooks
+- **Morning:** Introduction to conservation genetics<br/>
+Introduction to linux/bash and Jupyter notebooks
 - **Afternoon:** Introduction to NGS data
 
 ### Thursday, August 20
 
 - **Morning:** Demographic inference, coalescence, SFS
 - **Afternoon:** Research talks
+- **Excursion**
 
 ### Friday, August 21
 
@@ -136,7 +138,6 @@ Participants must bring a laptop. The practical exercises will use a remote serv
 
 - **Morning:** Heterozygosity, and runs of homozygosity
 - **Afternoon:** Conservation genomics in practice
-- Research talks
 
 ### Daily schedule
 
