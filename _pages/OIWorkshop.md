@@ -115,7 +115,7 @@ Participants must bring a laptop. The practical exercises will use a remote serv
 ### Wednesday, August 19
 
 - Morning: Introduction to conservation genetics
-*          Introduction to linux/bash and Jupyter notebooks
++          Introduction to linux/bash and Jupyter notebooks
 - Afternoon: Introduction to NGS data
 
 ### Thursday, August 20
@@ -126,7 +126,8 @@ Participants must bring a laptop. The practical exercises will use a remote serv
 ### Friday, August 21
 
 - Morning: Admixture
-- Afternoon: PCA Gene flow
+- Afternoon: PCA
++ Gene flow
 
 ### Saturday, August 22
 
@@ -137,7 +138,7 @@ Participants must bring a laptop. The practical exercises will use a remote serv
 
 - Morning: Heterozygosity, and runs of homozygosity
 - Afternoon: Conservation genomics in practice
-*            Research talks
++            Research talks
 
 ### Daily schedule
 
