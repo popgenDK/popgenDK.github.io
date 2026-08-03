@@ -38,11 +38,9 @@ permalink: /workshop/
 </div>
 
   <div class="text-center" style="margin: 1.5em 0;" markdown="0">
-  <a href="https://mpala.org/" aria-label="Visit the Mpala Research Centre website">
-  <img src="/images/mpala-logo.png"
+  <img src="https://mpala.org/wp-content/uploads/2026/05/logo-2.png"
        alt="Mpala Research Centre"
        style="width: 150px; height: auto;" />
-  </a>
   </div>
 
 ## General information
