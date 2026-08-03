@@ -40,7 +40,7 @@ permalink: /workshop/
   <div class="text-center" style="margin: 1.5em 0;" markdown="0">
   <img src="https://mpala.org/wp-content/uploads/2026/05/logo-2.png"
        alt="Mpala Research Centre"
-       style="width: 150px; height: auto;" />
+       style="width: 250px; height: auto;" />
   </div>
 
 ## General information
