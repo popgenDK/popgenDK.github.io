@@ -37,6 +37,17 @@ permalink: /workshop/
   </a>
 </div>
 
+  <div class="text-center" style="margin: 1.5em 0;">
+    <a href="https://mpala.org/"
+       aria-label="Visit the Mpala Research Centre website">
+      <img
+        src="{{ '/images/mpala-logo.png' | relative_url }}"
+        alt="Mpala Research Centre"
+        style="width: 150px; height: auto;"
+      />
+    </a>
+  </div>
+
 ## General information
 
 **Dates:** August 19-23, 2026 <br/>
@@ -127,8 +138,8 @@ Introduction to linux/bash and Jupyter notebooks
 ### Friday, August 21
 
 - **Morning:** Admixture
-- **Afternoon:** PCA<br/>
-Gene flow
+- **Afternoon:** PCA
+    - Gene flow
 
 ### Saturday, August 22
 
@@ -138,6 +149,7 @@ Gene flow
 ### Sunday, August 23
 
 - **Morning:** Heterozygosity, and runs of homozygosity
+    - Runs of homozygosity
 - **Afternoon:** Conservation genomics in practice
 
 ### Daily schedule
