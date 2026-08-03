@@ -158,7 +158,7 @@ Participants must bring a laptop. The practical exercises will use a remote serv
     - FST
 - **Afternoon:**
     - Positive selection
-    - genome scans
+    - Genome scans
 
 ### Sunday, August 23
 
