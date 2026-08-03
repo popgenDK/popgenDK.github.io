@@ -116,6 +116,15 @@ Mpala Research Centre is in the Laikipia ecosystem, approximately four hours by 
 
 Participants must bring a laptop. The practical exercises will use a remote server, so laptops with any major operating system can be used.
 
+### Daily schedule
+
+- 09:00-12:00: Morning lecture and practical
+- 12:00-13:00: Lunch
+- 13:00-16:00: Afternoon lecture and practical
+- 16:00-18:00: Seminar or short field trip
+- 16:00-18:00: Field trip, seminar, or other activity
+- 18:00-19:00: Dinner
+
 ## Program
 
 ### Wednesday, August 19
@@ -158,12 +167,3 @@ Participants must bring a laptop. The practical exercises will use a remote serv
     - Runs of homozygosity
 - **Afternoon:**
     - Conservation genomics in practice
-
-### Daily schedule
-
-- 09:00-12:00: Morning lecture and practical
-- 12:00-13:00: Lunch
-- 13:00-16:00: Afternoon lecture and practical
-- 16:00-18:00: Seminar or short field trip
-- 16:00-18:00: Field trip, seminar, or other activity
-- 18:00-19:00: Dinner
