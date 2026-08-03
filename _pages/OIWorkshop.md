@@ -125,32 +125,44 @@ Participants must bring a laptop. The practical exercises will use a remote serv
 
 ### Wednesday, August 19
 
-- **Morning:** Introduction to conservation genetics<br/>
-Introduction to linux/bash and Jupyter notebooks
-- **Afternoon:** Introduction to NGS data
+- **Morning:**
+    - Introduction to conservation genetics<br/>
+    - Introduction to linux/bash and Jupyter notebooks
+- **Afternoon:**
+    - Introduction to NGS data
 
 ### Thursday, August 20
 
-- **Morning:** Demographic inference, coalescence, SFS
-- **Afternoon:** Research talks
+- **Morning:**
+    - Demographic inference, coalescence, SFS
+- **Afternoon:**
+    - Research talks
 - **Excursion**
 
 ### Friday, August 21
 
-- **Morning:** Admixture
-- **Afternoon:** PCA
+- **Morning:**
+    - Admixture
+- **Afternoon:**
+    - PCA
     - Gene flow
 
 ### Saturday, August 22
 
-- **Morning:** Relatedness, FST
-- **Afternoon:** Positive selection, genome scans
+- **Morning:**
+    - Relatedness
+    - FST
+- **Afternoon:**
+    - Positive selection
+    - genome scans
 
 ### Sunday, August 23
 
-- **Morning:** Heterozygosity, and runs of homozygosity
+- **Morning:**
+    - Heterozygosity
     - Runs of homozygosity
-- **Afternoon:** Conservation genomics in practice
+- **Afternoon:**
+    - Conservation genomics in practice
 
 ### Daily schedule
 
