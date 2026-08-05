@@ -47,10 +47,10 @@ permalink: /workshop/
 
 [Registration](https://docs.google.com/forms/d/e/1FAIpQLSfOce8cR6qIHBJdSFxMtCECvO5HvDFc8z-z7sKPA8F8rr6Ilw/viewform?usp=publish-editor)
 
-  <div class="left" style="margin: 1.5em 0;" markdown="0">
-  <img src="[https://assets.qrcodecreator.com/qr-codes/9922861-1785926328361.svg]"
-       alt="QR code"
-       style="width: 150px; height: auto;" />
+  <div class="left" style="margin: 1.5em 0;">
+    <img src="https://assets.qrcodecreator.com/qr-codes/9922861-1785926328361.svg"
+         alt="QR code for registration"
+         style="width: 150px; height: auto;">
   </div>
 
 ## General information
