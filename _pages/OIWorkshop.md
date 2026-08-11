@@ -43,9 +43,9 @@ permalink: /workshop/
        style="width: 250px; height: auto;" />
   </div>
 
-## Last minute registration
+## Registration
 
-[Registration](https://docs.google.com/forms/d/e/1FAIpQLSfOce8cR6qIHBJdSFxMtCECvO5HvDFc8z-z7sKPA8F8rr6Ilw/viewform?usp=publish-editor)
+Invitation emails and notifications of being on the waiting list have now been sent to applicants
 
 ## General information
 
